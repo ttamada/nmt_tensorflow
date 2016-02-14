@@ -19,9 +19,16 @@ for file in root.iter("file"):
                 for seekvideo in trans.iter("seekvideo"):
                     if seekvideo.text != None:
                         try:
+			    print seekvideo.text
                             tokens = t.tokenize(seekvideo.text)
                         except:
-                            text = seekvideo.text.replace(u"　",u"、")
-                            tokens = t.tokenize(text)
+			    try:
+                            	text = seekvideo.text.replace(u"　",u"、")
+				print text
+                            	tokens = t.tokenize(text)
+			    except:
+				text = seekvideo.text.replace(u"　",u"")
+				print text
+				tokens = t.tokenize(text)
                         for tok in tokens:
                                 print tok
