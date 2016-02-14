@@ -4,6 +4,7 @@
 from bs4 import BeautifulSoup
 import argparse
 import re
+import os
 
 
 
@@ -18,8 +19,8 @@ args = parser.parse_args()
 
 
 
-output_en = open(args.file_en.replace(".xml","")+"_sents.txt", "w")
-output_other = open(args.file_other.replace(".xml","")+"_sents.txt", "w")
+output_en = os.path.join(args.file_en.replace(".xml",""),"_sents.txt")
+output_other = os.path.join(args.file_other.replace(".xml",""),"_sents.txt")
 
 with open(args.file_en) as f:
     content_en = f.read()
@@ -46,14 +47,13 @@ for seekvideo_other in soup_other.find_all("seekvideo"):
 
             sent_en = " ".join(comps_en)
             sent_other = " ".join(comps_other)
-            output_en.write(sent_en.encode("utf-8")+"\n")
-            output_other.write(sent_other.encode("utf-8")+"\n")
+            with open(output_en) as f:
+                f.write(sent_en.encode("utf-8")+"\n")
+            with open(output_other) as f:
+                f.write(sent_other.encode("utf-8")+"\n")
             print sent_en, sent_other
             comps_en = []
             comps_other = []
-
-output_en.close()
-output_other.close()
 
 
 

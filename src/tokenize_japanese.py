@@ -12,7 +12,7 @@ root = tree_ja.getroot()
 t = Tokenizer()
 
 for file in root.iter("file"):
-    if file.get("id") > 810:
+    if file.get("id"):
         for head in file.iter("head"):
             for trans in head.iter("transcription"):
                 print trans.tag
@@ -20,7 +20,8 @@ for file in root.iter("file"):
                     if seekvideo.text != None:
                         try:
                             tokens = t.tokenize(seekvideo.text)
-                            for tok in tokens:
-                                print tok
                         except:
                             text = seekvideo.text.replace(u"　",u"、")
+                            tokens = t.tokenize(text)
+                        for tok in tokens:
+                                print tok

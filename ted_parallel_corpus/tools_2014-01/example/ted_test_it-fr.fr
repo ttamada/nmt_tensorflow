@@ -1,0 +1,1286 @@
+Bonjour répondeur, mon vieil ami. 
+ J'apelle encore le support technique. 
+J'ai ignoré le conseil de mon chef. J'ai appelé un lundi matin. 
+C'est maintenant le soir, et mon diner commença par être froid - puis moisi Je suis toujours en attente. J'écoute le son du silence. 
+Je ne pense pas que vous comprenez. Je pense que vos lignes ne sont pas assez couvertes. 
+J'ai appuyé sur tous les boutons qu'on m'a dit. 
+mais je reste toujours 18 heures en attente. 
+Comme si c'était pas suffisant votre programme a fait planter mon Mac et il plante et replante constamment -- il a effacé mes ROMS! Maintenant le Mac fait le son du silence. 
+Dans mes rêves je fantasme d'abattre ma vengeance sur vous les gars. 
+Disons que vous avez un accident de moto du sang jailli de vos entrailles. Avec vos dernières forces, vous appelez le 9-1-1 et vous priez pour un médecin experimenté. Mais vous m'avez moi  et vous écoutez le son du silence. 
+ Merci. Bonsoir et bienvenue au "Trouvez le présentateur TED qui était avant un accompagnateur sur Broadway"  OK. Quand on m'a proposé d'écrire pour le Times il y a 6 ans, l'arrangement était le suivant: on m'enverrait les gadgets, les plus cool, les plus demandés, et les plus tendance. 
+Chaque semaine ils arriveraient chez moi. 
+Pour que je les essaie, joue avec, et que je les évalue jusqu'à ce que la nouveauté s'estompe, avant de les renvoyer. 
+Et je serais payé pour ça. Je pouvais y réfléchir, si je voulais. 
+Bon j'ai toujours été un fou de technologie, et j'adore toujours autant ça. 
+À part que le boulot est venu avec un petit désagrément. Et c'était que, ils avaient l'intention de publier mon adresse email a la fin de chaque article. 
+Et ce que j'ai remarqué c'est -- d'abord, vous recevez un nombre incroyable d'emails. 
+Si jamais vous vous sentez seul, écrivez pour le New York Times, parce que vous aller recevoir des centaines et des centaines et des centaines d'emails. Et l'email que je reçois le plus ces jours traite de frustration. 
+Les gens ont le sentiment que les choses -- OK, juste un message d'alarme sur mon écran. Heureusement vous ne le voyez pas. 
+Les gens ont le sentiment d'être dépassés. Que c'est trop de technologie, trop vite. 
+C'est peut-être de la bonne technologie, mais j'ai l'impression qu'il n'y a pas assez de structure de support. 
+Il n'y a pas assez d'aide. Il n'y a pas assez de recherche mise dans le design pour le rendre facile et agréable à utiliser. 
+Une fois j'ai écrit un article sur mes efforts pour joindre l’assistance technique de Dell. Et en 12 heures, il y a eu plus de 700 messages de lecteurs sur le forum sur le site web du Times, d'utilisateurs disant, "Moi aussi!" et, "Voici mon expérience malheureuse." J'appelle ça la rage du logiciel. 
+Et laissez moi vous dire, celui qui arrivera à transformer en argent cette frustration va -- oh, d'où ça sort? Je plaisante. 
+ Ok, bon pourquoi est-ce que le problème s'accélère ? Et une partie du problème est, ironiquement, parce que l'industrie a fait tellement de recherche pour rendre les choses plus simples à utiliser. 
+Je vais vous montrer ce que je veux dire. 
+Voici à quoi ressemblait l'interface d'un ordinateur, DOS. 
+Au fil du temps c'est devenu plus simple à utiliser. 
+Voici le système d'exploitation Mac d'origine. 
+Reagan était président. Madonna était encore brune. 
+Et tout le système d'exploitation -- attention -- tout le système d'exploitation tenait dans 211k. 
+Le logo de Mac OS 10 ne tiendrait pas dans 211k! 
+ Et l'ironie c'est que comme ces choses devenaient plus faciles à utiliser un public moins technique et plus large entrait en contact avec cet équipement pour la première fois. 
+J'ai eu une fois le privilège de rester au centre d'appel d'Apple toute une journée. 
+Le gars avait un deuxième casque pour que je puisse entendre. 
+Les appels qui -- vous savez ce qu'ils disent, "Votre appel peut être enregistré pour les besoins de la formation?" 
+Mm-Mmm. Votre appel peut être enregistré pour qu'ils puissent avoir les histoires les plus drôles d'utilisateurs stupides et se les passer sur CD. 
+ Ce qu'ils font. 
+ Et j'ai une copie. 
+ C'est dans votre sac-cadeau. Non, non. 
+Votre voix est dessus. 
+Certaines histoires sont tellement classiques, et pourtant si compréhensibles. 
+Une dame a appelé Apple pour se plaindre que sa souris grinçait -- qu'elle émettait un son grinçant. 
+Et le technicien a dit, "Bon, madame, qu'est-ce que vous voulez dire par votre souris grince?" 
+Elle a dit, "Tout ce que je peux vous dire c'est que plus vite je la bouge sur l'écran plus elle grince fort  Et le technicien étonné, "Madame, vous avez la souris contre l'écran?" 
+Elle répond, "Bon, le message disait, 'cliquer ici pour continuer.'"  Bon si vous aimez celle-là, combien de temps avons-nous ? 
+Une autre, un gars a appelé. Ceci est véridique! 
+Son ordinateur avait planté, et il a dit au technicien qu'il ne pouvait pas redémarrer peut importe combien de fois il tapait 11. 
+Et le technicien a dit, "Quoi? Pourquoi êtes vous en train de taper 11?" Et il a dit, "Le message dit, 'Erreur Type  11.'"  Bon on doit admettre qu'une partie de la faute est dûe à l'utilisateur. 
+Mais pourquoi est-ce que la crise technique, la crise de complexité, s'accélère maintenant? Dans le monde du matériel, c'est parce que nous consommateurs voulons que tout soit toujours plus petit. 
+Donc les gadgets deviennent minuscules mais nos doigts restent toujours de la même taille. 
+C'est donc toujours plus difficile. 
+Le logiciel est sujet à une autre force primaire: Le mandat de publier toujours plus de versions. 
+Quand on achète un logiciel, ce n'est pas comme acheter un vase ou un bonbon, que l'on possède. 
+C'est plus comme adhérer à un club où l'on paie la cotisation chaque année. 
+Et chaque année, ils disent, "Nous avons ajouté plus de fonctions et nous allons vous les vendre pour 99 dollars" Je connais un gars qui a dépensé 4000 dollars rien que sur Photoshop au fil des ans. 
+Et les éditeurs de logiciels tirent 35 pour cent de leurs revenus rien que de ces mises à jour. 
+J'appelle ça le Paradoxe de la Mise à Jour -- qui est que si on améliore un logiciel suffisamment de fois, au final on le ruine. 
+Je veux dire, Microsoft Word était juste un traitement de texte, vous savez, pendant l'administration Eisenhower. 
+ Mais quelle est l'alternative? Microsoft a fait l'essai. Ils ont dit, "Bon, attendez une minute. Tout le monde se plaint que nous ajoutons trop de fonctions. 
+Créons un traitement de texte qui est seulement un traitement de texte. 
+Simple, pur, il ne fait pas de pages web, ce n'est pas une base de données." 
+Et c'est sorti. Cela s'appelait Microsoft Write. 
+Et personne de vous n'approuve de la tête, parce que c'est mort. 
+Ce fut un flop. Personne ne l'a jamais acheté. 
+J'appelle ça le Principe de l'Utilitaire Sportif. Les gens aiment s'entourer de puissance inutile, pas vrai? 
+Ils n'ont pas besoin de la base de données et du site web, mais ils se disent, "Bon, je vais mettre à jour, car, je pourrais, vous savez. Je pourrais en avoir besoin un jour!" 
+Donc, le problème est, quand vous ajoutez des fonctions, où est-ce qu'elles vont aller? 
+Où est-ce que vous allez les mettre? Vous avez un nombre limité d'options. 
+Boutons, glissières, menus déroulants, sous-menus. 
+Mais si vous ne faites pas attention, vous vous retrouvez avec ça. 
+ Ceci n'a pas été retouché -- ce n'est une blague -- photo non retouchée de Microsoft Word, la copie que vous avez, avec toutes les barres de fonctions ouvertes. 
+Vous ne les avez apparemment jamais toutes ouvertes et tout ce qui vont reste pour taper c'est cette petite, minuscule fenêtre ici en bas. 
+ Et nous sommes arrivé a l'ère des interfaces matricielles, où il y a tellement de fonctions et d'options, que vous avez besoin de deux dimensions, vous savez. 
+Une verticale et une horizontale. Vous les gars vous vous êtes tous plaints de Microsoft Word qui numérote vos liste et souligne vos liens automatiquement. 
+Le bouton d'arrêt est quelque part par là. 
+Je vous dis, il est là! 
+Une partie de l'art de concevoir une bonne, et simple interface, c'est de savoir quand utiliser chacune de ces fonctions. 
+Donc voici la fenêtre d'arrêt de Windows 2000. 
+Il y a seulement quatre choix. 
+alors pourquoi sont-ils dans un menu déroulant? 
+Ce n'est pas comme si le reste de l'écran était tellement plein d'autres composants que vous avez besoin de fusionner les choix Ils auraient pu tous les rendre visibles. 
+Voici la vision d'Apple sur la même fenêtre. 
+ Merci -- oui, j'ai conçu la fenêtre de dialogue. Non, non, non. 
+Déjà, nous pouvons voir qu'Apple et Microsoft ont une approche sévèrement divergente du design de logiciels. 
+La simplicité selon Microsoft ressemble plutôt à: on va le fractionner, on va inclure plus d'étapes Et il y a ces assistants partout. 
+Et vous savez, une nouvelle version de Windows sort cet automne. 
+S’ils continuent à ce rythme, personne ne peut dire où ils vont finir. 
+ Bienvenue à l'assistant Taper-Un-Mot. OK, J'accroche. Cliquons sur suivant pour continuer. 
+ À partir du menu déroulant choisissez la première lettre à taper. OK. 
+ Il y a donc une limite qu'il ne faut pas franchir. Alors quelle est la solution? 
+Comment intégrer toutes ces fonctions d'une manière intelligente et simple? 
+Je crois dans la cohérence quand c'est possible, équivalents réels, dossiers poubelle quand c'est possible, surtout étiqueter les choses Mais je supplie ici les développeurs d'enfreindre toutes ces règles si elles violent la plus grande règle de toutes, qui est l'intelligence. Maintenant qu'est ce que je veux dire par là? 
+Je vais donner un exemple où l'intelligence fait que quelque chose n'est pas cohérent, mais mieux. 
+Si vous achetez quelque chose sur le web, vous êtes censé mettre votre adresse et vous êtes supposé choisir de quel pays vous êtes, ok? 
+Il y a 200 pays dans le monde. On aime à penser de l'Internet que c'est un village global Je suis désolé, ça ne l'est pas encore. 
+C'est principalement, les États-Unis, l'Europe et le Japon. 
+Donc pourquoi les États-Unis sont-ils dans les "U"? 
+ Vous devez faire défiler, comme sept écrans complets pour y arriver. 
+Maintenant ce ne serait pas cohérent de mettre les États-Unis en premier, mais ça serait intelligent. Celui-là a été abordé avant, mais pourquoi est-ce que vous éteignez un PC Windows en cliquant sur un bouton appelé "Démarrer?" 
+ Voici un autre de mes favoris: vous avez une imprimante. 
+La plupart du temps, vous voulez imprimer seulement une copie de votre document, dans l'ordre, sur cette imprimante. 
+Alors pourquoi est-ce que vous voyez chaque fois ça? 
+C'est comme un cockpit de 747. 
+ Et un des boutons en bas, vous le remarquerez, n'est pas "Imprimer." 
+  Maintenant, je ne dis pas qu'Apple est la seule compagnie qui a adopté le culte de la simplicité. 
+Palm aussi, spécialement dans l'ancien temps, ils étaient formidable pour ça. 
+Je suis allé parler chez Palm quand ils étaient populaires dans les années 90, et après la présentation, j'ai rencontré un des employés. 
+Il a dit, "jolie présentation." Et j'ai dit, "Merci, quel est votre rôle ici?" 
+Il a dit, "Je suis un compteur de taps." 
+Étonné, "Vous êtes quoi?" Il continue, "En fait, Jeff Hawkins, le président, dit, 'Si n'importe quelle tâche sur le Palm Pilot prend plus de trois taps du stylet, c'est trop long, et doit être repensé.' Donc je suis le compteur de taps." 
+Je vais donc vous montrer un exemple d'une compagnie qui n'a pas de compteur de taps. 
+Ceci est Microsoft Word, OK. Pour créer un nouveau document vierge dans Word -- ça peut arriver! 
+ Vous allez dans le menu Fichier et vous choisissez "Nouveau." Maintenant, Qu'est-ce qui se passe quand vous choisissez "nouveau?" Est-ce que vous créez un nouveau document vierge? 
+Non pas du tout. 
+À l'opposé de l'écran, une fenêtre apparait, et quelque part dans ces liens -- et bien sûr pas tout en haut -- quelque part dans ces liens il y a un bouton qui vous crée un nouveau document. 
+Ok, ceci est donc une compagnie qui ne compte pas les taps. 
+Vous savez, je ne veux pas seulement être là pour plaisanter sur Microsoft. 
+Public: Allez-y. 
+David Pogue: Oui je le veux. 
+  La chanson de Bill Gates! 
+J'ai depuis toujours été un fou d'informatique et j'ai écrit le tout premier DOS. 
+J'ai mis mon logiciel et IBM ensemble; J'ai eu les profits et ils ont eu les pertes. 
+ J'écris le code qui fait tourner le monde entier. 
+Je reçois des droits d’auteurs de tout le monde. 
+Des fois, c'est pourri mais la presse est impressionnée. 
+Vous achetez la boite, je vends le code. 
+Toutes les compagnies font de la recherche pour Microsoft. 
+Vous ne pouvez plus garder une bonne idée secrète de nos jours. 
+Même Windows est une copie. On est vaguement basés sur le Mac. 
+C'est si gros, c'est si lent. Vous n'avez nulle part où aller. Je ne le fais pas pour la reconnaissance; J'écris le code qui plaît au monde aujourd'hui. 
+D'une médiocrité absolue, Nous sommes entrés dans un mode de domination de la planète Vous n'aurez pas le choix, vous achèterez mon code. 
+Je suis Bill Gates et j'écris le code. 
+ Mais en fait, je pense qu'il y a vraiment deux Microsofts. 
+Il y a l'ancien, responsable de Windows et Office. 
+Ils meurent d'envie de tout balancer et recommencer à zéro mais ils ne peuvent pas. Ils sont coincés, car il y a tellement d'ajouts et de choses maison qui les condamnent à rester sur le vieux châssis de 1982. 
+Mais il y a aussi un nouveau Microsoft qui est vraiment en train de faire des design d'interfaces bons et simples. 
+J'aime le PC Media Center. J'ai aimé la montre Microsoft SPOT. 
+La montre sans fil a été un terrible échec dans le marché, mais ce n'était pas qu'elle n'était pas simplement et élégamment faite. 
+Mettons les choses en perspective: payeriez-vous 10 dollars par mois pour avoir une montre qui doit être rechargée chaque nuit, comme votre mobile, et qui s'arrête de fonctionner quand vous quittez votre code postal? 
+ Les signes peuvent indiquer que la période de complexité va seulement empirer. 
+Reste-t-il encore un espoir? Les écrans deviennent plus petits. 
+Les gens sont en train d'éliminer les manuels dans les boites. 
+Les choses sortent à une cadence plus rapide. 
+C'est marrant -- quand Steve Jobs est revenu à Apple en 1997, après être parti pendant 12 ans, c'était l'exposition Macworld. 
+Il arriva sur la scène dans son col roulé noir et ses jeans, et il a fait quelque chose comme ça. La foule était en délire, mais Je me dis, où est ce que j'ai vu ça avant? Je venais de voir le film "Evita" --  -- avec Madonna, et je me suis dit, vous savez quoi, je dois en faire une sur Steve Jobs. 
+Ce ne sera pas facile. Vous pensez que je suis bizarre. 
+Quand j'essaie d'expliquer pourquoi je suis revenu après avoir dit à la presse que le futur d'Apple est noir. 
+Vous ne me croirez pas. 
+Tout ce que vous voyez c'est un ado qui a démarré dans un garage avec rien qu'un pote nommé Woz. 
+ Essayez de rimer avec garage! 
+ Ne pleure pas pour moi, Cupertino. 
+ La vérité c'est, que je ne t'ai jamais laissé. 
+ Je connais les ficelles maintenant, je sais quels sont les trucs. 
+J'ai fait fortune grâce à Pixar. 
+ Ne pleure pas pour moi, Cupertino. J'ai toujours une vision très claire Je porte toujours des sandales pendant n'importe quel temps. C'est juste que ces jours, c'est du cuir Gucci. 
+  Merci. Donc Steve Jobs a toujours cru dans la simplicité l'élégance et la beauté. Et à dire vrai pendant des années j'étais un peu déprimé. C'était évident que les Américains n'y accordaient aucun prix, parce que le Mac avait trois pour cent de part de marché, Windows avait 95 pour cent de part de marché. 
+Les gens ne pensaient pas que ça valait la peine de payer pour ça.. 
+Donc j'étais un peu déprimé, et puis j'ai entendu la présentation d’Al Gore, et j'ai réalisé que je ne savais pas ce que déprimé veut dire. 
+ Mais en fait il s’est avéré que j'avais tort, d'accord ? Car l'iPod est arrivé, Et il a violé toutes les règles du bon sens. 
+D'autres produits coûtaient moins. D'autres produits avaient plus d'options. 
+Ils avaient des enregistreurs de voix, et des récepteurs FM. 
+Les autres produits étaient supportés par Microsoft avec un standard ouvert, pas le standard fermé d'Apple. 
+Mais l'iPod gagna! C'est celui qu'ils voulaient. 
+La leçon était: la simplicité vend. 
+Et il y a des signes qui indiquent que l'industrie est en train de recevoir le message. 
+Voici une petite compagnie qui a très bien réussi tout en simplicité et en élégance. 
+Le Sonos -- c'est en train de prendre.. 
+J'ai juste deux exemples. Physiquement, une pensée vraiment sympa, et élégante qui est arrivé récemment. 
+Quand vous avez un appareil numérique, comment transférez-vous les photos à votre ordinateur? 
+Bon, soit vous trimbalez partout un câble USB, soit vous achetez un lecteur de cartes et le trimbalez partout. 
+L'un ou l'autre, vous allez le perdre. Ce que je fais, c'est que je sors la carte mémoire, et je la plie en deux, révélant ainsi un port USB. 
+Je le branche dans l'ordinateur, transfère les photos, et le remets en place dans l'appareil. Comme ça je n'ai rien à perdre. 
+Voici un autre exemple. Chris, tu es la source de toute la puissance. 
+Voudrais-tu être ma prise électrique? 
+Chris Anderson: Oui bien sûr. 
+DP: Tiens ça et ne le lâche pas. Vous avez peut-être vu ceci: c'est le nouveau portable Apple. Voici le cordon d'alimentation. On le branche comme ça. 
+Et je suis sûr que vous avez tous déjà fait ça à un moment ou un autre, ou un de vos enfants. Vous marchez, et Je m'apprête à le balancer par terre. Je n'en ai rien à faire. C'est un prêt. 
+On y va. Whoa! C'est magnétique. Ça ne fait pas tomber l'ordinateur par terre. 
+ Dans mon tout dernier exemple -- Je fais une grande partie de mon travail en utilisant un programme de reconnaissance vocale, et vous devez rester tranquille parce que le programme est nerveux. Ok. 
+La reconnaissance vocale est super pour écrire des emails très rapidement. Point. 
+Comme, j'en reçois des centaines par jour. Point. 
+Il n'écrit pas seulement ce que je dicte. Point. 
+J'utilise aussi une des fonctions appelée macros. Point. 
+Corriger "dissuadé ". Pas seulement. 
+Ok, ce n'est pas une situation idéale, car il reçoit de l'écho de la salle,et ce genre de truc. 
+Mais l'important c'est que je peux répondre aux gens très rapidement en disant un mot court qu'il développe en quelque chose de beaucoup plus long. Si quelqu'un m'écrit un mail de fan, je dirai "Merci pour ça." 
+  Au contraire, si quelqu'un m'écrit un mail méchant -- ce qui arrive tous les jours -- Je dis, "Va chier." 
+  Donc ceci est mon petit secret personnel. Ne le dites à personne. 
+ Donc le principal est que c'est une histoire très intéressante. 
+Ceci est la 8e version du logiciel, et vous savez ce qu'ils ont mis dans cette 8e version? 
+Pas de nouvelles fonctions. Ce n'est jamais encore arrivé dans le monde du logiciel! 
+La compagnie n'a pas mis de nouvelles fonctions. Ils ont juste dit, "Nous allons faire fonctionner le programme correctement." Bien. 
+Parce que pendant des années les personnes ont acheté ce logiciel, l'ont essayé -- 95 pour cent de précision était tout ce qu'ils recevaient, ce qui veut dire qu'un mot sur 20 est faux -- et il le rangeait dans leurs tiroirs. Et la compagnie était fatiguée de ça, donc ils ont dit, "Dans cette version, vous n'allons rien faire d'autre que nous assurer qu'elle est sacrément précise." 
+Et c'est ce qu'ils ont fait. Cette façon de bien faire les choses est en train de s'étendre. 
+Donc mon dernier conseil pour ceux qui sont des consommateurs de cette technologie: Souvenez-vous, si ça ne fonctionne pas ce n'est pas forcément de votre faute, OK? 
+ça peut être le design de la chose que vous utilisez. 
+Soyez sensibles dans la vie au bon et au mauvais design. 
+Et si vous faites partie des gens qui créent ces choses, facile est dur. 
+Souffrez par avance pour votre public. Comptez les taps. 
+Et souvenez-vous, la chose la plus dure n'est pas de savoir quelle fonction inclure -- c'est de décider ce qu'il faut laisser de côté. 
+Et le plus important de tout, votre motivation est: la simplicité vend. 
+CA: Bravo DP: Merci beaucoup. 
+CA: Encore bravo! 
+ Comme beaucoup d'architectes, David aime être sous les feux de la rampe mais il est discret, ou fait semblant de l'être, donc il préfère que je l'interroge plutôt que de faire un long discours. 
+En fait, ce dont nous allons parler est un sujet qui se prête mieux à une conversation je pense, qu'à un exposé. 
+Je crois que nous avons un sujet à visionner pour commencer. 
+Depuis les attentats du 11 septembre sur le World Trade Center beaucoup de gens se sont rendus dans le centre de New York pour rendre hommage aux victimes, sur ce cimetière de 6 hectares. 
+Aujourd'hui, comme l'explique Jim Axelrod de CBS, ils mettent la touche finale à une nouvelle installation pour que les visiteurs puissent voir. 
+Oubliez l'Empire State Building ou la Statue de la Liberté A New York, le lieu où la foule est la plus compacte est Ground Zero. 
+J'ai emmené ma belle-fille depuis Indianapolis. 
+Parmi tous les sites touristiques de New York c'était ce qu'elle voulait voir. 
+Des milliers de personnes font la queue sur Lower Broadway. 
+Je voulais venir depuis que c'est arrivé. 
+Même en plein hiver, dans le froid, pour rendre hommage et se souvenir. 
+C'est la réalité, c'est nous. C'est arrivé ici. 
+Ceci est à nous. 
+Il y a tant de monde, que voir le site est devenu un vrai problème. 
+Je pense que les gens sont vraiment frustrés de ne pas pouvoir s'approcher davantage. 
+Mais cela va changer. 
+En un temps record, une équipe d'architectes et d'ouvriers du bâtiment ont imaginé et construit une plate-forme d'observation pour apaiser les frustrations, et permettre à tous de s'approcher. 
+Ils auront une vue incroyable. 
+Je crois qu'ils comprendront mieux la totale destruction de cet endroit. 
+Quand on y pense, Ground Zero est différent des autres sites touristiques d'Amérique. 
+Différent du Grand Canyon ou du Washington Monument car les gens viennent voir ce qui n'est plus là. 
+David Rockwell: Ce que les gens verront, en arrivant ici, ce n'est pas un chantier, mais un cimetière incroyablement émouvant. 
+Les murs sont intentionnellement nus, pour que les gens puissent déposer leurs messages, comme ils le font déjà autour de l'actuel périmètre. 
+Ca nous a touché en plein coeur. 
+Pour les passerelles, on a utilisé des matériaux très simples comme le contreplaqué qu'on utilise sur les chantiers, c'est tout l'intérêt. 
+Face à la plus grande destruction que l'Amérique ait connu, les gens reconstruisent. 
+Jim Axelrod, CBS news, à New York. 
+Ce n'est pas évident de parler ici de sensualité, mais on vous considère David, même si je sais que vous détestez cette expression, comme un architecte du divertissement. 
+Votre travail est hautement sensuel, hédoniste même. 
+J'aime bien ce mot là. 
+Votre travail est lié au plaisir, les casinos, les hôtels, les restaurants. 
+Comment ce choc que tout le monde a ressenti, surtout nous à New York, le 11 septembre, a-t-il provoqué chez vous cette envie de faire tout ça? 
+Et bien la vérité, c'est qu'après le 11 septembre, j'ai considéré tout d'abord que comme je vis à Tribeca, un quartier qui a été dévasté, et que je travaille à moins de 2 km de là, c'était mon rôle de forcer les 100 personnes qui travaillent avec moi, dans mon entreprise, à garder le même enthousiasme que nous avons toujours eu dans notre travail. 
+Nous terminons un livre qui s'appelle "Plaisir", qui parle de plaisir sensuel dans certains espaces. 
+Mais je dois dire que c'était devenu impossible. 
+Nous étions comme paralysés. 
+Et je me suis retrouvé le vendredi suivant le 11 septembre, deux jours après, littéralement incapable de motiver qui que ce soit. 
+Nous avons tous pris quelques jours de congé. 
+En parlant de ça avec d'autres architectes, on a lu dans la presse que des gens pensaient que les tours devaient être reconstruites à l'identique, en y ajoutant 50 étages. 
+Et j'ai trouvé ça incroyable d'avoir des projets, comme s'il s'agissait d'une compétition, à propos d'une blessure si récente. 
+J'ai beaucoup discuté d'abord avec Rick Scofidio et Liz Diller, qui ont travaillé avec nous, et avec d'autres personnes ensuite, et je me suis dit qu'il fallait vraiment que tout ça ait un intérêt. 
+En tant qu'architectes, la seule vraie façon d'aider n'était pas de parader ou d'élaborer des scénarios, mais d'aider les gens tout de suite. 
+Alors on a essayé de trouver un moyen, de créer un genre de groupe d'intervention d'architectes. 
+Et voilà ce qui en est sorti. 
+Etiez-vous conscient que tout à coup, en tant que designer dont le travail est de satisfaire des envies, vous alliez devoir satisfaire des besoins? 
+Ce dont j'étais conscient, c'est qu'il y avait un besoin urgent d'agir. 
+On nous avait demandé de participer à quelques projets avant ça. 
+Il y avait une école, PS 234, qui avait été évacuée à Ground Zero. 
+Ils ont déménagé dans une école désaffectée. 
+On a réuni 20 ou 30 architectes, des designers, des artistes, et ça a pris 4 jours, comme quand les gens construisaient des granges, tout le monde a voulu apporter son aide pour la rénover. 
+C'était extraordinaire. 
+Tom Otterness et Maira Kalman ont contribué à ce projet, et c'est devenu une expérience cathartique. 
+Ca a été terminé en 3 semaines vers le 8 octobre c'est ça? 
+Oui. 
+Je suppose qu'en vous attaquant à un projet aussi considérable, en plus des trois autres que vous avez imaginé pour encadrer le site, vous avez dû vous heurter à une administration et une autorité complexes et bien ancrées dans les milieux de l'immobilier et de la politique à New York? 
+Et bien, c'est bizarre. 
+Quand on a fini PS 234, on a dîné avec quelques personnes. 
+On m'avait demandé de présider l'Institut Américain d'Architecture pour la reconstruction. 
+J'ai assisté à plusieurs réunions. 
+On y évoquait les projets les plus grandioses et compliqués qui impliqueraient des travaux à long terme et la reconstruction complète de la ville. 
+Mais il y avait des blessures et des besoins auxquels il fallait s'attaquer de suite, et eux parlaient d'intégrer ça à un processus global. 
+Ce n'était pas un groupe facile à intégrer. 
+Alors on a dit... 
+Ce n'était pas un groupe facile à intégrer? 
+Ce n'était pas un groupe facile à intégrer. 
+Principalement blancs, riches, du milieu des affaires, qui ne représentaient pas la ville. 
+C'est choquant! 
+Oui, très surprenant. 
+Alors Rick, Liz, Kévin et moi on a eu une idée. 
+La municipalité nous a contacté. 
+Nous avions d'abord contacté la municipalité au sujet de la Jetée 94. 
+Nous avons vu comment PS 234 a fonctionné. 
+Les familles, les familles de victimes, se rendaient sur cette jetée incroyablement dégradante. 
+Sur la rivière Hudson? 
+Oui. Et la municipalité, d'abord Tim Zagat, puis Christyne Nicholas, et finalement on est arrivé à Giuliani, nous a dit: "on ne veut pas s'occuper de la Jetée 94 pour l'instant, mais il y a une plate-forme d'observation pour les familles à Ground Zero dont on aimerait faire quelque chose de plus digne pour les familles, et trouver un moyen de la protéger du mauvais temps. 
+Alors je suis allé voir avec Rick, Liz et Kévin, et je dois dire que ça a été une des expériences les plus émouvantes de ma vie. 
+C'était bouleversant de voir cette simple plate-forme en contreplaqué entourée d'une barrière, où les familles de victimes avaient déposé des messages. 
+Nous n'étions pas préparé à une telle expérience. 
+Il n'y avait aucun filtre. 
+Je me suis souvenu du 11 septembre, sur la 14ème rue, on voyait très bien les tours du toit de notre bâtiment, j'ai vu la première tour s'effondrer depuis la salle de conférence au 8ème étage, à la télé. 
+Tout le monde s'est précipité sur le toit, moi aussi. 
+Ce qui est incroyable, c'est que c'est beaucoup plus dur de croire en la réalité qu'en ce qu'on voit à la télé. 
+Ca fait moins peur quand il y a un filtre quand on a des informations sur ce qui se passe à côté de soi. 
+C'est pour ça que voir la plate-forme simplement, dignement, ça a été une expérience bouleversante. 
+Donc on est retourné voir la municipalité et on leur a dit que ça ne nous intéressait pas d'en faire une plate-forme pour VIP, mais on a passé du temps là-bas. 
+Et puis la municipalité avait ce besoin. 
+Ils cherchaient une solution pour gérer les 30 ou 40 000 personnes par jour qui allaient là-bas sans pouvoir voir. 
+Et puis il fallait gérer la circulation autour du site. 
+S'occuper de ça, c'était l'objectif n°1. 
+Il fallait trouver un moyen pour que les gens puissent se déplacer aux alentours. 
+Mais ensuite il vous a fallu trouver un moyen, sans parler de la complexité du système d'obtention des permis et de mettre tout le monde d'accord, pour financer tout ça. 
+Ca a l'air assez simple. 
+Cependant il s'agit d'un projet d'un demi milliard de dollars. 
+En fait, on savait que sans fonds privés, ça n'aboutirait pas. 
+Et franchement, on savait aussi que si ça n'aboutissait pas avant la fin du mandat de Giuliani, alors tous nos contacts au ministère des transports, aux services de police, et... 
+On voyait 20 ou 30 personnes de la municipalité à la fois. 
+C'est le Bureau de Gestion des Urgences qui organisait. 
+Ils ont fait du bon boulot, ils voulaient vraiment que ça marche, ils ont senti qu'il y avait un besoin. 
+C'est pour ça qu'il y avait urgence? 
+Parce que Giuliani ne serait plus là 3 mois plus tard? 
+Oui. Donc la première chose à faire pour y arriver, c'était travailler avec les familles de victimes, par le biais de la municipalité, pour qu'elles sachent ce qui se passait. 
+On ne voulait pas que ça soit une surprise. 
+Il fallait faire en sorte d'être le plus transparent possible, parce que le but n'était pas de soulever des objections mais de travailler aussi tranquillement que possible. 
+L'idée nous est venue de créer une fondation, surtout parce que quand on a trouvé l'entrepreneur, il a refusé de le faire malgré l'argent que nous étions prêts à lui donner. 
+Il fallait qu'il y ait une fondation. 
+Donc on a crée cette fondation, et ce qui s'est passé, c'est qu'un promoteur important à New York... 
+Qui restera anonyme je suppose? 
+Oui. Ses initiales sont JS, il est le propriétaire du Rockfeller Center, si vous voulez un indice, a proposé son aide. 
+On l'a rencontré. 
+Les prix des entrepreneurs allaient de 500 à 700 000 dollars. 
+Et Atlantic-Heydt, la plus grande entreprise d'échafaudage du pays, a proposé de travailler sans bénéfices. 
+Donc notre promoteur a dit "nous couvrirons toutes les dépenses." 
+On a répondu, "Incroyable!" 
+Je crois que c'était le 21, et il fallait qu'on ait fini avant le 28. 
+On était censés commencer le lendemain. 
+On a fait une réunion le soir avec l'entrepreneur qu'il avait choisi, qui est arrivé avec les dessins d'une plate-forme 2 fois plus petite que celle qu'on avait dessinée. 
+Comme dans le film Spinal Tap où il y a un tout petit Stonehenge, c'est ça? 
+- En réalité, on aurait dit un échafaudage de laveurs de vitres. 
+On ne sentait pas que cet endroit, tout proche de Saint Paul, à un lieu de recueillement et de souvenir. 
+Je dois dire qu'on a passé beaucoup de temps à mettre tout ça en place, à observer les gens qui se réunissaient à St Paul, sur la droite, et qui se déplaçaient autour du site. 
+Je vis là bas, alors on a passé du temps à définir les besoins. 
+Je crois que les gens ont été surpris par 2 choses: Ils ont été surpris par la destruction, et ils n'arrivaient pas à croire en la force et le courage des New Yorkais, ça m'a beaucoup ému. 
+Le courage au quotidien des New Yorkais. 
+Donc pendant cette réunion, l'entrepreneur a carrément dit, "Je ferme la porte à clé, parce que ce promoteur ne vous laissera pas partir tant que vous n'aurez pas signé." 
+On lui a dit: " C'est 2 fois trop petit, il n' y a aucune des caractéristiques prévues, sur lesquelles tout le monde était d'accord, à la municipalité. 
+Il faudrait tout reprendre à zéro pour faire ça." 
+Je l'ai convaincu de nous laisser sortir avec l'accord de construire ce qui avait été prévu. 
+Le lendemain j'ai reçu un mail du promoteur disant qu'il retirait tous ses fonds. 
+On ne savait pas quoi faire, alors on a décidé de ratisser très large. 
+On a envoyé des mails à autant de personnes que possible, certaines d'entre elles sont ici, elles ont beaucoup aidé. 
+Vous n'avez pas envisagé de quitter le navire à ce moment là? 
+Non. En fait j'ai dit à l'entrepreneur de continuer. 
+Il avait déjà commandé des matériaux sur mon accord. 
+On savait que d'une façon ou d'une autre, ça allait marcher. 
+On sentait qu'il fallait que ça marche. 
+Vous vous êtes auto-financés donc, avec les dons et cette fondation. 
+Richard, de manière très claire, a fait le rapprochement tout à l'heure, avec les designers de chaises, ces designers de chaises qui imposent des arguments esthétiques sur un point aussi commun, banal et universel que celui de s'asseoir. 
+Il me semble que ceci est exactement l'opposé. 
+C'était un problème de design singulier et sans précédent. 
+C'est là toute la question. 
+On savait que ça n'était pas dans le sens... 
+On pense au site, et au besoin d'un mémorial. 
+Enfin pas exactement un mémorial. 
+C'est un endroit où les gens se recueillent et se souviennent, un endroit tranquille. 
+Ce qui nous a amené à utiliser le design pour limiter les barrières entre le public, comme pour la plate forme des familles, et l'expérience elle même. 
+Les matériaux sont incroyablement simples. 
+Des échafaudages et du contreplaqué. 
+Ce qui permet, grâce au mouvement des personnes allant jusqu'à St Paul et redescendant par l'autre côté, de parcourir près de 100 m pour arriver à 4 m du sol, d'où on a une vue de 360 degrés. 
+Ce design découle d'impératifs de rapidité, de coût, de sécurité, de respect et de flexibilité. 
+Il est également prévu que cette architecture puisse être déplacée. 
+En effet, on a observé les 4 plate-formes existantes, l'une d'entre elles, une amélioration de celle prévue pour les familles, nous a permis de comprendre qu'elles devaient pouvoir bouger pour répondre aux diverses conditions et aux changements que connaîtrait Ground Zero. 
+Votre travail, nous en avons déjà parlé, est guidé par le fait que vous vous concentrez sur l'aspect temporaire et évanescent des choses. 
+"Carpe Diem, on ne sait jamais de quoi demain sera fait", c'est comme ça que vous voyez les choses. 
+Ce projet ne traversera clairement pas les âges. 
+Dans quelques années, cette chose ne sera plus là. 
+En tant qu'architecte, cela a-t-il exigé de votre part une nouvelle façon de voir les choses? 
+De considérer cela comme une installation temporaire? 
+Non, je ne crois pas. 
+Je crois que de toute évidence, c'est totalement différent de tout ce qu'on a fait auparavant, de par sa nature. 
+Il y a 2 types de réflexions sur notre travail en général: premièrement, la notion de collaboration est impérative pour avancer. 
+Kevin Kennon, Rick Scofidio, Liz Diller et tous les gens de la municipalité, Norman Lear, avec qui j'ai discuté 4 heures avant d'atteindre la limite pour trouver les financements, nous a offert un prêt relais pour nous permettre d'y arriver. 
+Donc la notion de collaboration est essentielle je pense. 
+En ce qui concerne l'aspect temporaire, notre but n'était pas de créer quelque chose qui resterait là plus longtemps que nécessaire. 
+Ce qui nous intéressait c'était de promouvoir une sorte de dialogue qui n'avait peut être pas suffisamment existé dans cette ville, sur ce qui se passe réellement là bas. 
+1 jour ou 2 avant l'ouverture, Giuliani a fait son discours d'adieu, où il a évoqué l'idée de faire de tout Ground Zero un mémorial. 
+Idée très controversée, mais qui a trouvé un écho auprès de beaucoup. 
+Indépendamment de la position à adopter au sujet de ce qu'on doit faire de cet endroit sacré, l'évoquer au moment où on découvre le résultat devant ses yeux, rend le dialogue plus percutant. 
+C'est ça qui nous intéressait. 
+Tout cela fait partie intégrante de tout ce à quoi je me suis intéressé auparavant. 
+Entre autres choses, cela me semble un bel exemple d'infrastructure civique. 
+Cela rend cette conversation sérieuse. 
+6 mois après les faits, quelques mois seulement après que le site ait été dégagé, nous arrivons rapidement au stade où il faut se demander sérieusement ce que nous allons faire de cet endroit. 
+Après vous être tant impliqué physiquement sur le site, avez-vous des idées concernant ce qui devrait ou pas être fait? 
+Je pense qu'il ne faut pas faire d'estimation. 
+Je pense que les discussions dans les milieux autorisés portent sur le plan d'ensemble. 
+La Protetch Gallery a récemment présenté ses idées de bâtiments, qui pour certaines sont très inventives. 
+Et d'autres vraiment mauvaises. 
+Ça ressemble un peu à une compétition d'idées, alors qu'il faudrait se concentrer sur un plan d'ensemble et une utilisation. 
+Avoir une vue d'ensemble, ça commence à être le cas. 
+Le dialogue s'élargit vraiment sur ce qu'on veut réellement faire du site. 
+Je crois sincèrement que quand on aura résolu la question du mémorial, ce sera difficile d'avoir une discussion intelligente. 
+Certaines discussions en ce moment sont très positives, comme l'idée d'enterrer l'autoroute du West Side de façon à avoir une vue ouverte sur l'espace. 
+En effet, c'est intéressant. 
+Ce qui nous mène à une autre question qu'il aurait été indélicat d'évoquer il y a 6 mois, mais c'est différent maintenant, car peu d'entre nous aimaient le World Trade Center du point de vue architectural, pour ce qu'il avait fait à la ville, et cette immense place. 
+Est-ce l'occasion, le côté positif s'il y en a un, de reconstruire quelque chose de plus traditionnel? 
+J'y vois une vraie occasion d'engager une discussion sur les raisons pour lesquelles nous vivons dans les villes. 
+Pourquoi vivons-nous dans des endroits où des gens si différents nous croisent tous les jours? 
+Ca n'a pas grand chose à voir avec 50, 60, 70 ou 80 000 nouveaux bureaux, peu importe le nombre. 
+Alors oui, c'est une occasion de reconsidérer ce que nous pensons des villes. 
+En fait, il y a un projet sur la table pour reconstruire numéro 7. 
+Le bâtiment qui était au nord des tours? 
+C'est ça, les Tours se sont effondrées dessus. 
+Le projet est en suspend à cause de l'indignation de la communauté, c'est pour ça qu'ils ne réouvrent pas la rue pour relier cet endroit avec le reste de la ville. 
+C'est pourquoi je pense qu'une concertation publique... 
+J'aimerais qu'il y ait un concours international, un appel aux idées. 
+Que ce soit de l'art, du logement, ou même du shopping? 
+Oui et nous cherchons d'autres idées. 
+La petite fondation que nous avons créée cherche d'autres façons d'aider. 
+Y compris prendre une petite partie adjacente au site et inviter 10 architectes qui n'ont pour l'instant pas voix au chapitre, à venir ici pour en faire des ateliers d'artistes. 
+Trouver d'autres moyens d'encourager la discussion pour éviter des solutions trop simple ou trop massives et développer une multitude de choses. 
+Avant de conclure, vous avez je crois une vidéo montrant ce qui se passe sur la plate-forme? 
+John Kamen, qui est ici, a monté 2 mn 30 de vidéo qui montre la plate-forme maintenant qu'elle est ouverte. 
+Ca me paraissait bien de finir là dessus. 
+Nous sommes au dessus de Fulton Street, à l'ouest. 
+Une des difficultés que nous avons rencontrées avec l'administration Giuliani c'est que j'avais oublié à quel point il est contre les graffitis. 
+Cette structure a été créée pour qu'on puisse écrire dessus. 
+Comme vous dites, ce n'est pas un mémorial. 
+Mais aviez vous en tête d'autres mémoriaux? Celui du Vietnam? 
+Ce genre de format? 
+Nous avons fait un grand travail de recherches, et nous avions d'autres mémoriaux en tête. 
+En particulier concernant la complexité et la durée de réalisation. 
+Il y a 350 personnes membres du comité pour Oklahoma City, c'est pourquoi nous avons trouvé que c'était une solution appropriée et spontanée qui s'étendait entre Union Square et les endroits qui se trouvaient déjà être des mémoriaux appropriés. 
+Cet échafaudage construit au dessus de la rue est démontable. 
+Ce qui est intéressant c'est que la nature du site a totalement changé, pour qu'on soit conscient qu'il ne s'agit pas seulement de la destructions de 2 bâtiments, mais de tous les autres autour de Ground Zero, et que les cicatrices sur ces bâtiments sont énormes. 
+On voit St Paul à gauche. 
+Je tiens à vous remercier au nom des New Yorkais d'avoir rendu tout ceci possible, de l'avoir fait. 
+Le fait que tout cela ait été érigé presque instantanément, le fait d'être là, avant même qu'on envisage qu'une solution d'une telle envergure pouvait être apportée, contribue à son extraordinaire beauté, ou tout au moins, sa présence. 
+Ce fut un honneur pour moi. 
+Nous sommes ravis d'avoir pu le montrer ici. 
+En ce qui concerne les inventions, j'aimerais vous raconter l'histoire de l'un de mes projets préférés. 
+Il s'agit sans doute de l'un des plus passionnants sur lesquels je travaille, mais c'est aussi, pour moi, le plus simple. 
+Ce projet est susceptible d'avoir des répercussions énormes dans le monde entier. 
+Il concerne l'un des principaux problèmes de santé de la planète, la première cause de mortalité chez les enfants âgés de moins de cinq ans, qui est... ? les maladies liées à l'eau ? la diarrhée ? la malnutrition ? 
+Non. Il s'agit de l'inhalation des fumées émanant des feux allumés en intérieur pour cuisiner, et des infections respiratoires aiguës qu'ils provoquent. Incroyable, non ? 
+Pour moi, c'est à la fois choquant et révoltant. 
+N'est-il donc pas possible de créer des combustibles plus propres ? 
+Ne pouvons-nous pas fabriquer des poêles de meilleure qualité ? 
+Comment ce phénomène peut-il entraîner plus de deux millions de décès par an ? 
+Je sais que Bill Joy vous a parlé des qualités exceptionnelles des nanotubes de carbone. 
+Je vais donc vous parler de l'intérêt exceptionnel des macrotubes de carbone, c'est-à-dire du charbon. 
+Voici une photo de la campagne haïtienne : Haïti est aujourd'hui déforestée à 98 %, et vous pourrez voir des paysages comme celui-ci dans toute l'île. 
+Cela crée des troubles environnementaux variés, et des problèmes qui affectent les habitants dans l'ensemble du pays. 
+Il y a quelques années, une inondation assez grave a eu lieu et a entraîné des milliers de morts ; elle est directement liée au fait qu'il n'y a pas d'arbres sur les collines pour maintenir la terre. 
+Et donc, lorsqu'il pleut, les fleuves débordent et provoquent des inondations. 
+Le manque d'arbres est lié au fait suivant : les habitants doivent faire la cuisine, donc ils collectent du bois et le transforment en charbon pour cuisiner. 
+Ne croyez pas que les habitants ignorent les dommages qu'ils occasionnent : ils en ont parfaitement conscience mais n'ont pas d'alternative. 
+Les combustibles fossiles ne sont pas disponibles, et cuisiner à l'énergie solaire ne permet pas de préparer les plats comme ils les aiment. 
+Voici donc ce qu'ils font : vous verrez des familles comme celle-ci se rendre en forêt pour trouver un arbre, l'abattre et le transformer en charbon. 
+Il n'est donc pas étonnant que beaucoup de travaux aient été menés pour tenter de trouver des combustibles alternatifs pour la cuisine. 
+Il y a près de quatre ans, j'ai emmené un groupe d'étudiants à Haïti, et nous avons travaillé avec des bénévoles du Peace Corps. 
+Voici l'un de ces bénévoles, et voici le dispositif qu'il avait construit dans le village où il travaillait. 
+Il reposait sur l'utilisation de vieux papiers, qui étaient compressés et transformés en briquettes susceptibles de servir de combustible. 
+Toutefois, ce procédé était très lent. 
+Les étudiants en ingénierie ont donc travaillé dessus et, grâce à quelques changements très basiques, ils ont réussi à tripler la capacité de ce dispositif. 
+Vous pouvez donc imaginer leur intérêt pour ce sujet ! 
+Ils ont alors rapporté les briquettes au MIT afin de les tester, et ils ont découvert, entre autres, qu'elles ne brûlaient pas, ce qui a quelque peu découragé les étudiants. 
+Et, en fait, si vous regardez de plus près juste ici, vous pourrez lire "U.S. Peace Corps." 
+En effet, il s'est avéré qu'il n'y avait pas de vieux papiers dans ce village. 
+Et s'il est vrai que pour ce volontaire, ramener de la papereasse du gouvernement au village avec lui était une bonne idée, il fallait quand même parcourir 800 kilomètres. 
+Nous avons donc pensé qu'il existait peut-être un meilleur moyen de créer un combustible de cuisine alternatif. 
+Ce que nous voulions, c'est créer un combustible utilisant des ingrédients facilement accessibles au niveau local. 
+Sur cette photo, on voit de petits moulins à sucre très répandus en Haïti. 
+Et les déchets de la production, une fois le jus de la canne à sucre extrait, sont appelés "bagasse". 
+Ils n'ont aucune autre utilité, aucune valeur nutritionnelle, et ne sont donc pas utilisés pour nourrir les animaux. 
+Ils sont juste empilés près du moulin à sucre, en attendant d'être brûlés. 
+Ce que nous voulions, c'était trouver un moyen d'exploiter ces déchets et de les transformer en un combustible avec lequel les habitants pourraient facilement cuisiner, comme le charbon. 
+Durant les années suivantes, j'ai donc travaillé avec les étudiants pour créer ce procédé. 
+On prend la bagasse, et on la place dans un simple four qui peut être fabriqué à partir d'un baril de pétrole vide de 210 litres. 
+Au bout d'un moment, après y avoir mis le feu, on le ferme hermétiquement afin de limiter la quantité d'oxygène pénétrant dans le four, et on finit par obtenir de la bagasse calcinée. 
+Cependant, on ne peut pas la faire brûler parce qu'elle est trop fine, et qu'elle se consume trop rapidement pour une utilisation en cuisine. 
+Nous devions donc trouver une solution pour la transformer en briquettes utilisables. 
+Par chance, l'un de mes étudiants était ghanéen, et il s'est souvenu d'un plat nommé "kokonte" que lui préparait sa mère, un porridge très épais à base de racine de manioc. 
+Nous avons donc mené des recherches et découvert que le manioc était également cultivé en Haïti, En réalité, cette racine est cultivée dans le monde entier : yucca, tapioca, cassave, manioc, c'est la même chose, un légume-racine très riche en amidon. 
+On peut en faire un porridge très épais et collant, qui peut être utilisé comme liant dans les briquettes de charbon. 
+C'est ce que nous avons fait : nous sommes partis pour Haïti. 
+Voici les diplômés de la première Ecole de Charbon, ou "Charcoal Institute" en anglais. Et ces... 
+ -- voilà. En fait j'enseigne au MIT et au CIT. 
+Et voici les briquettes que nous avons fabriquées. 
+Je vous emmène maintenant sur un autre continent : voici l'Inde, et voici le combustible le plus utilisé en cuisine : la bouse de vache. 
+Plus encore qu'à Haïti, les feux allumés avec cet élément produisent énormément de fumée, et les répercussions sur la santé sont vraiment manifestes, lorsque la bouse de vache ou la biomasse sont utilisées comme combustible pour cuisiner. 
+Les principales victimes sont les enfants et les femmes, parce que ce sont eux qui sont présents autour de ces feux. 
+Nous avons donc voulu voir si nous pouvions introduire ce procédé de fabrication du charbon en Inde. 
+Malheureusement, ils n'avaient ni canne à sucre ni manioc, mais cela ne nous a pas découragé. 
+Nous avons donc cherché à connaître les ressources locales en termes de biomasse. 
+Dans cette zone, on trouvait de la paille de blé et de la paille de riz. 
+Comme liant, nous avons pensé utiliser de petites quantités de fumier de vache qui sert habituellement de combustible. 
+Nous avons réalisé des essais comparatifs et vous pouvez voir ici les briquettes de charbon, et là, la bouse de vache, et on voit bien que les briquettes brûlent beaucoup plus proprement. 
+En réalité, ce combustible permet de faire chauffer l'eau bien plus rapidement. 
+Nous étions donc très satisfaits. 
+Cependant, nous avons découvert lors des essais comparatifs avec le charbon de bois, que notre charbon brûlait moins longtemps, et que les briquettes s'effritaient quelque peu, ce qui entraînait une perte d'énergie lors de la cuisson. 
+Nous avons donc tenté de trouver une solution pour fabriquer des briquettes plus solides de façon à rivaliser avec le charbon de bois vendu sur les marchés haïtiens. 
+Nous sommes retournés au MIT et, à l'aide de la machine Instron, nous avons déterminé les forces nécessaires pour comprimer une briquette jusqu'à obtenir un meilleur résultat. 
+Et pendant ce temps, des étudiants travaillaient sur ce problème en laboratoire, nos partenaires locaux travaillaient à Haïti sur le développement du procédé afin de l'améliorer et de faciliter son accès pour les habitants des villages. 
+Et après un certain temps, nous avons développé une presse à faible coût permettant de produire du charbon qui brûle plus longtemps et plus proprement que le charbon de bois. 
+Nous disposons donc maintenant d'un produit qui est en réalité meilleur que celui que l'on trouve sur le marché haïtien et c'est extrêmement satisfaisant. 
+Rien qu'à Haïti, près de 30 millions d'arbres sont abattus chaque année. 
+Il est possible que ce procédé soit mis en place et qu'une bonne partie de ces arbres puissent alors être sauvés. 
+En outre, les recettes obtenues grâce à ce charbon s'élèvent à 260 millions de dollars : il s'agit d'une somme colossale pour un pays comme Haïti, dont la population atteint huit millions de personnes pour un revenu moyen inférieur à 400 dollars. 
+Et donc nous avançons avec notre "projet charbon", et un élément que je trouve également intéressant, est que l'un de mes amis de l'université de Berkeley a réalisé une analyse de risque. 
+Il a comparé les problèmes de santé occasionnés par la combustion du bois et celle du charbon, et il a découvert que dans le monde entier, on peut éviter 1 million de morts en passant du bois au charbon pour cuisiner. C'est impressionnant ! 
+Cependant, c'était jusqu'alors impossible sans abattre d'arbres. 
+Désormais, nous disposons d'une solution qui utilise un déchet agricole pour créer un combustible de cuisine. 
+Mais, un autre élément particulièrement intéressant a surgi lorsque je me suis rendue au Ghana le mois dernier, et je trouve que c'est vraiment génial. 
+Et c'est encore plus simple que ce que vous venez de voir, imaginez vous. Voilà. 
+Qu'est-ce que c'est ? Des épis de maïs transformés en charbon. 
+Et ce qui est merveilleux, c'est qu'il est inutile de façonner des briquettes. 
+Elles se forment naturellement. C'est mon "PC à 100 dollars" à moi ! 
+Et, comme Nick , je vous ai apporté des échantillons. 
+ Nous allons les faire circuler. 
+Ils sont tout à fait utilisables, testés sur le terrain, prêts à être lancés. 
+Et l'un des éléments particulièrement intéressants à propos de cette technologie, est que son transfert est particulièrement simple, par opposition au charbon de canne à sucre, pour lequel nous avons dû former les personnes à la fabrication des briquettes et où il y a une étape supplémentaire pour la cuisson du liant, alors que celles-ci sont déjà pré-formées. 
+Et c'est peut-être la chose la plus intéressante que j'aie jamais faite, ce qui peut paraître une remarque triste sur ma vie. 
+ Mais une fois que vous le voyez, comme le font les personnes au premier rang là... 
+n'est-ce pas? oui, donc... 
+ -- voilà. Et ceci est un parfait exemple de ce dont Robert Wright parlait avec ses "sommes non-zéro". 
+Il y a donc non seulement des avantages pour la santé, des avantages pour l'environnement, et c'est en outre un cas extrêmement rare de situation comportant également des avantages économiques. 
+Les habitants peuvent produire leur propre combustible de cuisine à partir de déchets et peuvent en tirer un revenu. 
+Ils peuvent économiser l'argent qu'ils allaient dépenser pour acheter du charbon, et peuvent en produire plus pour le revendre sur le marché à d'autres qui ne produisent pas le leur. 
+Il est vraiment rare qu'il n'y ait pas de concession à faire entre la santé et l'économie ou entre l'environnement et l'économie. 
+Je trouve donc ce projet particulièrement intéressant et je suis vraiment impatiente de voir où il va nous mener. 
+Ainsi, lorsque nous parlons du futur que nous allons créer, je pense qu'il est vraiment nécessaire d'avoir une vision claire de notre monde actuel. 
+Et je ne parle pas du monde dans lequel nous vivons actuellement, mais de celui où les femmes passent deux à trois heures par jour à moudre du grain pour nourrir leurs familles. 
+Je parle du monde où les matériaux de construction de pointe sont des tuiles en ciment faites à la main, et où travailler dix heures par jour ne vous rapporte que 60 dollars par mois. 
+Je parle du monde où les femmes et les enfants passent 40 milliards d'heures par an à chercher de l'eau : c'est comme si toute la main d'œuvre de la Californie travaillait à temps plein pendant un an avec pour seule activité la recherche d'eau. 
+Un monde où, par exemple, si nous étions en Inde, trois personnes dans cette salle seulement posséderaient une voiture. 
+Un monde où, si nous étions en Afghanistan, une personne seulement dans cette salle saurait utiliser Internet. 
+Un monde où, si nous étions en Zambie, 300 d'entre vous seraient agriculteurs, 100 d'entre vous seraient atteints du SIDA ou porteurs du HIV, et plus de la moitié d'entre vous vivraient avec moins d'un dollar par jour. 
+Voici les problèmes auxquels nous devons trouver des solutions. 
+Voici les questions sur lesquelles nous devons former nos ingénieurs, nos créateurs, nos hommes d'affaires et nos entrepreneurs. 
+Et ce sont ces réponses que nous devons apporter. 
+Pour moi, certains domaines en particulier doivent être traités, et l'un d'entre eux est la création de technologies en faveur de la micro-finance et des micro-entreprises, afin que les personnes vivant en dessous du seuil de pauvreté puissent s'en sortir grâce à d'autres solutions que la traditionnelle fabrication de paniers, l'élevage de volailles, etc. 
+Mais il existe de nouvelles technologies et de nouveaux produits qui peuvent être produits à petite échelle. 
+L'autre chose en laquelle je crois, est la nécessité de créer des technologies pour les agriculteurs pauvres afin qu'ils puissent faire augmenter la valeur de leurs cultures. 
+Nous devons repenser nos stratégies de développement, de façon à ne pas promouvoir des campagnes incitant les agriculteurs à arrêter leurs activités, mais les incitant plutôt à cesser d'être des agriculteurs pauvres, et concevoir des stratégies pour que cette démarche soit efficace. 
+Nous devons travailler avec les membres de ces communautés, et leur fournir les ressources et les outils qui leur permettront de résoudre leurs problèmes. C'est la meilleure solution, il ne faut pas agir de l'extérieur. 
+Nous devons donc créer ce futur, et commencer dès aujourd'hui. 
+Merci. 
+ Chris Anderson : Pourriez-vous -- pendant que nous regardons s'il y a des questions -- nous parler d'un autre projet sur lequel vous avez travaillé ? 
+Amy Smith : Parmi les autres sujets sur lesquels nous travaillons, figure notamment l'étude de la réduction du coût des tests de la qualité de l'eau, afin que les communes puissent gérer leurs propres systèmes d'approvisionnement en eau, vérifier qu'ils fonctionnent, être capables de réaliser les traitements, etc. 
+Nous travaillons également sur des systèmes de traitement de l'eau à faible coût. 
+L'un des projets les plus intéressants a trait à la désinfection solaire de l'eau et l'amélioration des possibilités d'un tel traitement. 
+CA : Quels sont les obstacles que vous rencontrez ? 
+Devez-vous trouver des entrepreneurs ou des partenaires financiers ? 
+De quoi avez-vous besoin pour mener à bien votre projet ? 
+AS : En effet, beaucoup d'acteurs sont impliqués. 
+C'est difficile, il s'agit d'un marché très fragmenté et d'une population sans revenus. 
+Il est donc impossible d'utiliser un modèle américain pour faire avancer les choses. 
+En outre, l'équipe est assez réduite : c'est moi. 
+ Donc je fais ce que je peux avec les étudiants : chaque année nous envoyons 30 étudiants sur le terrain, qui tentent de mettre en œuvre ces projets et de les faire avancer. 
+Il faut aussi tenir compte de la longueur des délais car, vous vous en doutez, on ne peut s'attendre à atteindre un tel objectif en un ou deux ans : il faut fixer des objectifs sur cinq ou dix ans. 
+Néanmoins, je pense qu'avec une telle vision, nous pouvons progresser. 
+Merci beaucoup, Chris. C'est vraiment un honneur de pouvoir venir sur cette scène une deuxième fois. Je suis très reconnaissant. 
+J'ai été très impressionné par cette conférence, et je tiens à vous remercier tous pour vos nombreux et sympathiques commentaires sur ce que j'ai dit l'autre soir. 
+Et je dis çà sincèrement, en autres parce que --Faux sanglot-- j'en ai besoin ! --Rires-- Mettez-vous à ma place! 
+J'ai volé avec Air Force 2 pendant huit ans. 
+Et maintenant, je dois enlever mes chaussures pour monter à bord d'un avion ! 
+Je vais vous raconter une petite histoire pour vous montrer ce que çà a été pour moi. 
+C'est une histoire vraie, dans tous ses détails. 
+Après que Tipper et moi avons quitté la --Faux sanglot-- Maison Blanche --Rires-- nous étions en route pour une petite ferme que nous avons à 80 km à l'est de Nashville -- Je sais que ça doit vous paraître sans importance mais --Rires-- en jetant un oeil sur le rétroviseur, j'ai réalisé tout à coup. 
+Il n'y avait pas d'escorte derrière. 
+Vous avez déjà entendu parlé de douleur du membre fantôme? --Rires-- C'était une Ford Taurus de location. C'était l'heure de dîner et on s'est mis à chercher un endroit pour manger. 
+On était sur la I-40. Nous avons pris la sortie 238, Lebanon dans le Tennessee. 
+Après être sortis, on a commencé à chercher un -- on a trouvé un Shoney's. 
+Une chaîne de restauration familiale à bas prix, pour ceux d'entre vous qui l'ignorent. 
+On est entrés et la serveuse est arrivée. 
+Elle était très impressionnée de voir... Tipper. --Rires-- Elle a pris nos commandes et s'est dirigée vers la table à côté de la nôtre. 
+Elle leur parlait tout bas et j'ai vraiment dû tendre l'oreille pour entendre ce qu'elle disait. 
+Elle a dit :"Oui, c'est l'ancien vice-président Al Gore et sa femme Tipper;" Et l'homme a répondu, " Il est tombé bien bas, hein ?" --Rires-- Il y a eu plusieurs moments de prise de conscience comme celui-là. 
+Le jour suivant, je continue mon histoire authentique. 
+J'ai pris un jet vers l'Afrique pour faire un discours au Nigéria, à Lagos, sur le thème de l'énergie. 
+Et j'ai commencé mon discours en racontant l'histoire qui m'était arrivée la veille à Nashville. 
+Je l'ai racontée comme je viens de le faire avec vous. 
+Tipper et moi conduisant nous-mêmes, le restaurant familial pas cher Shoney's, ce que l'homme a dit -- Et ils ont ri. 
+J'ai fait mon discours et je suis retourné à l'aéroport pour rentrer chez moi. 
+Je me suis endormi pendant le vol, jusqu'au milieu de la nuit, où nous nous sommes posés aux Açores pour faire le plein. 
+Je me suis levé, ils ont ouvert la porte et je suis sorti pour prendre l'air. 
+Et j'ai vu un homme courir à travers la piste. 
+Il agitait un papier et criait : "Appelez Washington, Appelez Washington!" 
+Alors je me suis dit, en pleine nuit, au milieu de l'Atlantique, je me demande bien quel genre de problème il pourrait y avoir à Washington? 
+Et je me suis rappelé que ça pourrait être plein de choses, en fait. 
+Mais en fait, ce qui se passait c'est que mes collaborateurs étaient paniqués parce qu' une agence de presse au Nigéria avait déjà écrit un article sur mon discours. 
+Et il avait déjà été publié dans tous les Etats Unis d'Amérique. 
+même à Monterey, j'ai vérifié. Et l'article disait : "L'ancien vice-président Al Gore a annoncé hier au Nigéria, "Ma femme Tipper et moi avons ouvert un restaurant familial à bas prix, le Shoney's, et nous nous en occupons nous-mêmes." --Rires-- Avant même d'avoir posé le pied aux USA, David Letterman et Jay Leno s'étaient déjà jetés sur l'histoire -- l'un d'eux me montrait sur une photo avec une toque de chef, et avec Tipper disant "Un autre hamburger avec des frites, s'il vous plaît!" 
+Trois jours plus tard, j'ai reçu une belle lettre manuscrite de mon ami, partenaire et collègue Bill Clinton me disant : "Félicitations pour ton nouveau restaurant, Al !" 
+On aime bien se féliciter quand l'un d'entre nous réussit quelque chose. 
+J'allais parler d'écologie de l'information. 
+Mais comme je compte faire de mes visites chez TED une habitude régulière, je me disais que je pourrais peut-être en parler une autre fois --Applaudissements-- Chris Anderson: Marché conclu! 
+Al Gore: Je voudrais approfondir un aspect sur lequel beaucoup d'entre vous ont demandé plus d'information. 
+Qu'est-ce que vous pouvez faire contre le réchauffement climatique? J'aimerais commencer avec -- Je vais vous montrer de nouvelles diapositives et je vais juste en détailler quatre ou cinq. 
+Je mets à jour ma présentation à chaque fois que je la donne. 
+J'ai ajouté de nouvelles diapositives parce que j'apprends de nouvelles choses à chaque présentation. 
+C'est comme la marée : à chaque fois que la mer se retire, vous trouvez de nouveaux coquillages. 
+On vient de recevoir il y a deux jours les résultats des températures de janvier. 
+Cela porte sur les USA. La moyenne historique de Janvier est de 31 °F . Celle du mois dernier est de 39.5 °F . 
+Comme je sais que vous vouliez plus de mauvaises nouvelles pour l'environnement -- je plaisante -- mais voici les diapositives récapitulatives, et après je passerai à ce que vous pouvez faire à votre échelle. 
+Mais je voulais détailler quelques diapos avant. 
+Tout d'abord, ceci montre la projection de la contribution des USA au réchauffement climatique si l'on continue sur la même voie. L'efficacité énergétique au niveau de l'utilisateur final voilà un objectif à portée de main. Efficacité et économie: Il ne s'agit pas d'un coût mais d'un profit. Le signe est faux. 
+Ce n'est pas un moins, c'est un plus. Ce sont des investissements qui se paient tous seuls. 
+Et ils sont aussi très efficaces pour infléchir la courbe. 
+J'ai parlé des voitures et des camions dans la présentation, mais il faut les ramener à une vision d'ensemble. 
+Ce sont des sujets de préoccupation visibles et évidents, ce qui est bien, mais les logements sont une source de pollution à effet de serre plus importante que les voitures et les camions. 
+Les voitures et les camions jouent un rôle important et nos normes d'émission sont les moins exigeants du monde, et il faut s'en occuper. Mais ce n'est qu'un morceau du puzzle. 
+L'efficacité énergétique des autres types de transports pèse aussi lourd que celle des voitures et camions. 
+Les énergies renouvelables à leur niveau technologique actuel peuvent produire cette baisse, et, avec Vinod, John Doerr et d'autres, dont beaucoup sont là -- et de nombreuses personnes très impliquées -- ce secteur va croître beaucoup plus vite que ne le laisse voir la projection actuelle. 
+Les pièges à carbone -- c'est ce que CCS veut dire -- sont en passe de devenir l'arme suprême qui nous permettra de continuer à utiliser des combustibles fossiles sans dommage pour la planète. 
+Nous n'en sommes cependant pas encore là. 
+OK. Alors, que pouvez-vous faire ? Vous pouvez réduire vos émissions de CO2 dans votre habitation. 
+La pluspart de ces dépenses vous feront économiser de l'argent. 
+Isolation, meilleure conception, achetez de l'electricité verte quand vous le pouvez. 
+Je parlais des voitures plus tôt. Achetez un modèle à propulsion hybride. 
+Ayez recours à d'autres moyens de transport quand ils sont plus économes. C'est important. 
+Soyez un consommateur écologique. Pour chaque chose que vous achetez, vous pouvez choisir entre des objets à fort impact sur l'environnement et d'autres dont l'effet est beaucoup plus limité. 
+Pensez à çà : Prenez la décision de mener une vie à "empreinte carbone nulle" Ceux d'entre vous qui s'y connaissent en création de marques , j'aimerais beaucoup avoir votre aide pour dire cela d'une manière qui soit la plus parlante possible. 
+C'est plus facile que vous ne pensez. Vraiment. 
+Beaucoup d'entre nous ici ont déjà pris cette décision et c'est vraiment assez facile. 
+Réduisez vos émissions de CO2 grâce à toute la palette de choix qui s'offre à vous et pour ce que vous n'avez pas pu supprimer, achetez des droits d'émission. 
+Pour mieux comprendre, allez sur climatecrisis.net Il y a un calculateur d'émissions de CO2. De nombreux participants se sont rassemblés, sous mon implication active et les programmateurs les mieux formés au monde sur la science complexe du calcul des émissions de carbone ont permis de mettre au point un calculateur d'émission de carbone utilisable par n'importe qui. 
+Vous pouvez calculer de manière très précise le niveau de vos émissions de CO2, après quoi vous sont proposées des solutions pour réduire vos émissions. 
+Et à la sortie du film en mai, le programme passera en version 2.0 et proposera des liens directs pour acheter des droits d'émission. 
+Ensuite, réfléchissez à faire de votre emploi une activité à empreinte carbone nulle. Là aussi, certains d'entre nous ont déjà franchi le pas et ce n'est pas aussi dur qu'on ne pense. Intégrez des solutions vertes dans chacune de vos innovations, que vous veniez du monde de la technologie, du spectacle, du design ou de celui de l'architecture. 
+Investissez dans le développement durable. Majora en a parlé. 
+Si vous confiez de l'argent à des responsables d'entreprises dont la rémunération dépend de la performance annuelle, ne venez pas vous plaindre du fait que l'entreprise soit gérée par trimestre. 
+Au final, les gens font ce pour quoi vous les payez. Et s'ils estiment que la part de leur rémunération liée à votre investissement, sera calculée sur la base de profits à court terme, vous n'obtiendrez que des décisions à court terme. 
+Il y aurait beaucoup plus à dire à ce sujet. 
+Devenez un catalyseur de changement. Expliquez aux autres, informez-vous, parlez-en autour de vous. 
+Quand le film sort -- le film est une version filmée de la présentation que j'ai faite il y a deux jours, à part qu'elle est beaucoup plus attrayante. Il sort en mai. 
+Beaucoup d'entre vous peuvent faire en sorte que beaucoup de monde le voient. 
+Voyez si vous avez quelqu'un à envoyer à Nashville. Choisissez bien. 
+Et je me chargerai personnellement de former ces personnes pour qu'à leur tour, elles fassent cette présentation remaniée pour qu'elle puisse être faite par n'importe qui. 
+et -- ce n'est pas tant les diapos que ce qu'elle veulent dire et comment elles sont liées les unes aux autres. 
+Et je vais donc donner un cours cet été à un groupe de personnes choisies pour apprendre et après faire la présentation à leur tour, en masse, auprès de communautés à travers tout le pays. 
+Et nous mettrons la présentation à jour chaque semaine pour qu'elle soit toujours au fait des évènements. 
+En collaboration avec Larry Lessig, elle sera diffusée avec des outils et des droits de reproduction limités pour que les jeunes puissent puiser dedans et la refaire à leur façon. 
+D'où vient cette idée qu'il faut rester à l'écart de la politique ? 
+Je ne veux pas dire que j'essaie de vous convertir, si vous êtes un Républicain, en Démocrate. Nous avons aussi besoin des Républicains. Par le passé, ce problème dépassait les clivages politiques et je sais que c'est le cas dans ce groupe. Devenez actifs sur le plan politique. 
+Faites marcher notre démocratie comme elle devrait marcher. 
+Apportez votre soutien à l'idée d'une limitation des émissions de CO2 et des gaz à effet de serre ainsi qu'à leur commerce. Voici pourquoi : tant que les USA seront en dehors du système mondial, Une fois que le système est global, avec la participation des USA, alors tout membre d'un conseil d'administration -- combien de personnes ici font partie d'un conseil d'administration ? 
+Une fois que le système est global, vous aurez une responsabilité légale d'inciter votre PDG à maximiser le revenu lié aux réductions d'émissions de CO2 et au commerce de celles qui peuvent être évitées. C'est le marché tout entier qui oeuvrera alors à résoudre ce problème. 
+Contribuez à la campagne de persuasion de masse qui débutera au printemps. 
+Nous devez changer l'état d'esprit du peuple Américain. Parce que à l'heure actuelle, les hommes politiques n'ont pas la permission de faire ce qui doit être fait. 
+Dans notre pays, la raison et la logique ne permettent plus d'arbitrer entre la richesse et le pouvoir comme c'était le cas par le passé. 
+Il n'y a plus que la répétition de spots publicitaires de 30 ou 28 secondes. 
+Nous devons acheter beaucoup de ces spots. 
+Trouvons une nouvelle marque pour le réchauffement climatique comme bon nombre d'entre vous l'ont suggéré. 
+Je préfère crise climatique à effondrement climatique mais je le répète, ceux d'entre vous qui s'y connaissent en branding, j'ai besoin de votre aide. 
+Un scientifique m'a dit un jour que le problème que nous avons devant nous revient à savoir si une espèce dotée de pouce opposable et d'une conscience est une combinaison viable. 
+C'est vraiment çà. Je l'ai dit hier soir et je le répète : ceci n'est pas une question de politique. 
+Et aux Républicains qui sont ici je dis : ce n'est pas une question de parti. 
+Vous avez plus d'influence que certains d'entre nous Démocrates n'en ont. 
+C'est une opportunité. Pas seulement çà, mais avec les idées présentées ici, d'être plus cohérent entre nous. 
+Nous sommes tous dans le même bateau. 
+Merci beaucoup. Merci. 
+--Applaudissements-- Durant la pause, plusieurs personnes m'ont demandé mon avis sur le débat sur le vieillissement. 
+Et ceci sera mon unique commentaire à ce sujet. 
+Et c'est que, je comprends que les optimistes vivent plus longtemps que les pessimistes. 
+ Ce dont je vais vous parler pendant mes 18 minutes c'est le fait que nous sommes sur le point de passer de la lecture du code génétique aux premières étapes du début de l'écriture du code nous-même. 
+Cela ne fait que 10 ans ce mois-ci depuis notre publication de la première séquence d'un organisme doué de vie indépendante, celle de haemophilus influenzae. 
+Cela a pris un projet génome de 13 ans réduit a 4 mois. 
+Nous pouvons à présent reproduire le même projet génome en à peu près 2 à 8 heures Donc durant la dernière décennie, un grand nombre de génomes ont été ajoutés: la majorité des pathogènes humains, quelques plantes, plusieurs insectes et plusieurs mammifères, dont le génome humain. 
+La génomique au stade de réflexion d'il y a un peu plus de 10 ans prévoyait qu'à la fin de cet année, nous aurions séquencé de 3 à 5 génomes; c'est de l'ordre de plusieurs centaines. 
+Nous venons juste d'obtenir une bourse de la Gordon et Betty Moore Foundation pour séquencer 130 génomes cette année, comme un projet secondaire pour des organismes écologiques Donc le rythme de lecture du code génétique a changé. 
+Mais à mesure que l'on cherche, ce qui se trouve ailleur, nous avons à peine gratté la surface sur ce qui est disponible sur la planète. 
+La plupart des gens ne s'en rendent pas compte, parce qu'ils sont invisibles, mais les microbes représentent environ la moitié de la biomasse terrestre, alors que tous les animaux ne représentent qu'environ 1 millième de toute la biomasse. 
+Et peut-être que c'est quelque chose que les gens d'Oxford ne font pas si souvent, mais si jamais vous allez à la mer, et que vous avalez une gorgée d'eau de mer, gardez en tête que chaque millilitre contient environ un million de bactéries et de l'ordre de 10 millions de virus. 
+Moins de 5000 espèces de microbes ont été définis il y a 2 ans, et donc nous avons décidé de faire quelque chose à ce sujet. 
+Et nous avons lancé l'Expédition Sorceler II, au cours de laquelle nous avons, comme pour toute grande expédition océanographique, essayer de prendre un échantillon tous les 300 kilomètres. 
+Nous avons commencé dans les Bermudes pour notre projet test. 
+Puis nous sommes montés jusqu'à Halifax, longeant la côte Est des États-Unis, la mer des Caraïbes, le canal de Panamá, vers les Galápagos, puis tout le long du Pacifique, et nous sommes maintenant en train de cheminer à travers l'Océan Indien. 
+C'est un tâche très difficile; nous le faisons sur un bateau à voile, en partie pour motiver les jeunes à faire de la science. 
+Les expériences sont incroyablement simples. 
+Nous prenons tout simplement de l'eau de mer et nous la filtrons, et nous collectons des organismes de tailles différentes sur des filtres différents. 
+Et ensuite nous ramenons leur ADN à notre labo à Rockville, où nous pouvons séquencer 100 millions de lettres du code génétique toutes les 24 heures. 
+Et en faisant ainsi, nous avons fait des découvertes incroyables. 
+Par exemple, on pensait que les pigments visuels dans nos yeux -- il n'y avait qu' 1 ou 2 organismes dans l'environnement ayant les mêmes pigments. 
+Il s'avère que presque toutes les espèces dans les parties supérieures de l'océan dans les régions chaudes du monde ont les même photorécepteurs, et utilisent le soleil comme source de leur énergie et de leur communication. 
+Sur un site, dans un baril d'eau de mer, nous avons découvert 1,3 millions de nouveaux gènes et jusqu'à 50 000 nouvelles espèces. 
+Nous avons étendu le projet à l'air cette fois-ci avec une bourse de la Sloan Foundation. 
+Nous sommes en train de mesurer combien de virus et de bactéries chacun d'entre nous inspire et expire chaque jour, en particulier dans les avions ou les auditoriums fermés  Nous filtrons à travers des appareils simples; nous pouvons amasser de l'ordre d'un milliard de microbes en un seul jour en filtrant au sommet d'un immeuble de la ville de New York. 
+Et nous sommes en train de séquencer tout ça en ce moment. 
+Juste du côté de la collecte des données, juste où nous en sommes dans les Galápagos, nous trouvons actuellement que presque tous les 300 kilomètres, nous constatons une diversité phénoménale dans nos échantillons de l'océan. 
+Certains semblent être logique en termes de gradients de températures différents. 
+Donc voici une photo satellite basée sur les températures--rouge étant chaud, bleu étant froid -- et nous constatons une différence énorme entre les échantillons d'eaux chaudes et les échantillons d'eaux froides, en termes d'abondance d'espèces. 
+L'autre chose qui nous a un peu pris par surprise c'est que ces photorécepteurs détectent tous des longueurs d'ondes du spectre visible différentes, et nous pouvons le prédire en nous basant sur leurs séquences d'acides aminés. 
+Et cela varie considérablement de région en région. 
+Ce n'est donc pas surprenant que dans l'océan profond, où l'eau est principalement bleu, les photorécepteurs ont tendance à voir la lumière bleue. 
+Quand il y a beaucoup de chlorophylle dans les alentours, ils voient beaucoup de lumière verte. 
+Mais ils varient encore plus, s'étendant possiblement jusqu'à l'infrarouge et l’ultraviolet dans les cas extrêmes. 
+Juste pour essayer de faire un bilan de l'ampleur de notre répertoire de gènes, nous avons assemblé toutes les données-- en incluant toutes celles de l'expédition pour l'instant, ce qui représente plus de la moitié de toutes les données de gènes sur la planète-- et cela totalisait environ 29 millions de gènes. 
+Et nous avons essayé de les ranger en familles de gènes pour voir ce que représentait ces découvertes: Découvrons-nous de nouveaux membres de familles déjà connues, ou découvrons-nous de nouvelles familles? 
+Et il s'avère que nous avons environ 50 000 familles de gènes majeures, mais chaque nouvel échantillon que nous prélevons dans l'environnement s'ajoute de façon linéaire à ces nouvelles familles. 
+Donc nous sommes à une étape précoce de découverte des gènes de base, des composants et de la vie sur cette planète. 
+Quand on regarde le soit-disant arbre phylogénétique, nous sommes au coin supérieur droit avec les animaux. 
+Parmi ces 29 millions de gènes environ, nous n'en avons qu'environ 24 000 dans notre génome. 
+Et si vous prenez tout l'ensemble des animaux, nous en partageons probablement moins de 30 000 et probablement peut-être une douzaine ou plus de milliers de familles de gènes différentes. 
+Je vois maintenant que ces gènes ne sont pas seulement les éléments de conception de l'évolution. 
+Et nous avons une façon de penser très axée sur les gènes -- pour en revenir peut-être aux idées de Richard Dawkins-- plutôt qu'axée sur le génome, qui représente différentes structures de ces composants géniques. 
+L'ADN synthétique, la capacité de synthétiser l'ADN, a changé en quelque sorte au même rythme que celui du séquençage de l'ADN ces 1 à 2 dernières décennies, et est en train de devenir très rapide et beaucoup moins cher. 
+Notre première pensée au sujet de la génomique synthétique nous est venue alors que nous séquencions le deuxième génome en 1995, celui du mycoplasma genitalium. 
+Et nous avons des T-Shirts très sympas qui lisaient, vous savez, "J'aime mon genitalium". 
+Il ne s'agit qu'en fait d'un microorganisme. 
+Mais il a grossièrement 500 gènes. 
+Haemophilus avait 1 800 gènes. 
+Et nous avons simplement posé la question, si une espèce en a besoin de 800, une autre de 500, y-a-t-il un plus petit ensemble de gènes qui pourrait correspondre à un système d'exploitation minimal? 
+Donc nous avons commencé à faire des mutagenèses de transposons. 
+Les transposons sont tout simplement de petits brins d'ADN qui sont aléatoirement introduits dans le code génétique. 
+Et s'ils s'introduisent au milieu d'un gène, ils perturbent sa fonction. 
+Donc nous avons fait une plan de tous les gènes qui pouvaient endurer des insertions de transposons et nous les avons appelé "gènes non-essentiels." 
+Mais il s'avère que l’environnement joue un rôle crucial dans ce cas, et vous ne pouvez que définir un gène essentiel ou un gène non-essentiel en fonction de ce qu'il y a dans l'environnement. 
+Nous avons aussi essayé de prendre une approche intellectuellement plus directe avec les génomes de 13 organismes apparentés, et nous les avons tous comparés, pour voir ce qu'ils avaient en commun. 
+et nous obtenons ces cercles se chevauchants. Et nous trouvons seulement 173 gènes commun à tous les 13 organismes. 
+Ce pool génique s'étend un peu si nous ignorons un parasite intracellulaire; il s'étend encore plus quand nous nous focalisons sur les ensembles de gènes fondamentaux de 310 et quelques. 
+Donc nous pensons pouvoir étendre ou contracter les génomes, ici ça dépend du point de vue, de possiblement entre 300 et 400 gènes à partir du minimum de 500. 
+Le seul moyen de prouver ces idées était de construire un chromosome artificiel avec ces gènes à l'intérieur, et nous avons dû faire ça sous forme de cassettes. 
+Nous avons découvert que synthétiser avec précision de l'ADN en grands morceaux était extrêmement difficile. 
+Ham Smith et Clyde Hutchinson, mes collègues là-dessus, ont développé une nouvelle méthode passionnante qui nous a permis de synthétiser un virus ayant 5 000 paires de bases en seulement 2 semaines qui était 100 % précise, en termes de sa séquence et de sa biologie. 
+C'était une expérience assez excitante -- quand nous avons simplement pris le morceau d'ADN synthétique, l'avons injecté dans la bactérie et tout à coup, cet ADN a commencé à lancer la production de particules virales qui ont tourné autour et ensuite tué la bactérie. 
+Celui-ci n'était pas le premier virus synthétique-- un poliovirus avait été fabriqué un an auparavant-- mais il n'était qu'un dixième de milliers de fois aussi actif et a pris 3 ans à faire. 
+Ceci est un dessin de la structure de Phi X-174. 
+Ceci est un cas où le logiciel construit maintenant son propre support matériel, et c'est les notions que nous retrouvons en biologie. 
+Les gens parlent aussitôt de guerre biologique, et j'ai récemment témoigné devant le Sénat, et un comité spécial que le gouvernement Américain a mis en place pour étudier ce domaine. 
+Et je pense qu'il est important de garder la réalité à l'esprit, contre ce qu'il se passe dans l'imagination des gens. 
+En gros, n'importe quel virus qui a été séquencé jusqu'à aujourd'hui-- ce génome peut être fabriqué. 
+Et immédiatement les gens paniquent au sujet d'Ebola ou de la variole, mais l'ADN de ces organismes n'est pas infectieux. 
+Donc même si quelqu'un venait à fabriquer le génome du virus de la variole, cet ADN lui-même ne causerait pas d'infections. 
+La seule véritable inquiétude qu'ont les départements de sécurité concerne les virus sur mesure. 
+Et il n'existe que 2 pays, les États-Unis et ce qui était autrefois l'Union Soviétique, qui ont fait des efforts majeurs pour essayer de créer des agents de guerre biologique. 
+Si cette recherche a réellement été abandonnée, il devrait y avoir très peu d'activité basé sur le savoir-faire requis pour fabriquer des virus sur mesure dans le futur. 
+Je pense que les organismes unicellulaires sont possibles dans 2 ans. 
+Et peut-être les cellules eucaryotes, celles qui nous composent, sont possibles pour cette décennie. 
+Donc nous fabriquons actuellement plusieurs douzaines de structures différentes, parce que nous pouvons varier les cassettes et les gènes qui sont insérés dans ce chromosome artificiel. 
+La clé est, comment mettons-nous tous les autres? 
+Nous commençons avec ces segments, et ensuite nous avons un système de recombinaison homologue qui les réassemblent en un chromosome. 
+Une technique dérivée d'un organisme, deinococcus radiodurans, qui peut prendre 3 millions de rads de radiations et ne pas mourir. 
+Il réassemble son génome après cette rafale radioactive en environ 12 à 24 heures, après que ses chromosomes aient été complètement déchiquetés. 
+Cet organism est omniprésent sur la planète, et existe peut-être maintenant dans l'espace à cause de tous nos voyages interstellaires. 
+Ceci est un bécher en verre après environ ½ million de rads de radiation. 
+Ce verre a commencé à brûler et à craquer, pendant que les microbes assis au fond sont devenus de plus en plus heureux. 
+Voici une image de ce qui se passe: en haut on voit le génome après 1.7 million de rads de radiation. 
+le chromosome est complètement déchiqueté. 
+Et voici ce même ADN se réassemblant automatiquement 24 heures plus tard. 
+C'est vraiment stupéfiant que ces organismes puissent faire ça, et nous avons probablement des milliers, si ce n'est des dizaines de milliers d'espèces différentes sur cette planète qui sont capables de faire ça. 
+Une fois que ces génomes sont synthétisés, la première étape consiste simplement à les transplanter dans une cellule sans génome. 
+Donc nous pensons que les cellules synthétiques vont avoir un énorme potentiel, pas seulement dans la compréhension des bases de la biologie mais aussi, espérons-le, en termes de questions écologiques et sociétales. 
+Par exemple, à partir du troisième organisme que nous avons séquencé, Methanococcus jannaschii: il vit à des températures équivalentes à l'eau bouillante, sa source d'énergie est l'hydrogène et tout son carbone vient du CO2 qu'il récupère dans l'environnement. 
+Donc nous connaissons beaucoup de processus différents, des milliers d'organismes différents à présent qui vivent sur le CO2, et qui peuvent le capturer en retour. 
+Donc au lieu d'utiliser le carbone du pétrole pour des procédés synthétiques, nous avons l'occasion d'utiliser le carbone et de le récupérer de l'atmosphère, le convertissant en biopolymères et autres produits. 
+Nous avons un organisme qui vit sur le monoxyde de carbone, et que nous utilisons comme puissance réductrice pour scinder l'eau pour produire de l'hydrogène et de l'oxygène. 
+Aussi, il existe de nombreux processus qui peuvent être conçus pour métaboliser le méthane. 
+Et DuPont a un programme important avec Statoil en Norvège qui consiste à capturer et convertir le méthane des champs de gaz qui existent là-bas en produits utiles. 
+Dans peu de temps, je pense qu'il va y avoir une nouvelle discipline appelé la Génomique Combinatoire, parce qu'avec ces nouvelles capacités de synthèse, ces vastes répertoires d'arrangements de gènes et de recombinaison homologue, nous pensons pouvoir créer un robot pour faire peut-être un million de chromosomes différents par jour. 
+Et donc, comme avec toute biologie, on obtient une sélection à travers un filtrage, que vous filtriez pour la production d'hydrogène, ou la production d'un produit chimique, ou seulement la viabilité. 
+Comprendre le rôle de ces gènes va être à notre portée. 
+Nous sommes en train d'essayer de modifier la photosynthèse pour produire de l'hydrogène via la lumière solaire. 
+La photosynthèse est modulée par l'oxygène, et nous avons une hydrogénase insensible à l'oxygène qui selon nous va totalement changer ce processus. 
+Nous combinons aussi des cellulases, les enzymes qui décomposent les sucres complexes en sucres simples et la fermentation dans la même cellule pour produire de l'éthanol. 
+La production pharmaceutique est déjà en cours dans les grands laboratoires ayant recours à des microbes. 
+La chimie des composants dans l'environnement est d'un niveau de complexité vastement supérieur à celle que nos meilleurs chimistes arrivent à produire. 
+Je pense que de futures espèces modifiées pourraient devenir une source de nourriture, avec un peu de chance une source d'énergie, un remède pour l'environnement et peut-être un remplacement pour l'industrie pétrochimique. 
+Laissez-moi juste terminer avec les études éthiques et politiques. 
+Nous avons retardé le début de nos expériences en 1999 jusqu'à ce que nous puissions compléter un an et demi de rapport d'enquête bioéthique sur si nous devrions essayer de fabriquer des espèces artificielles. 
+Chacune des grandes religions y a participé. 
+En fait c'était une étude très étrange, parce que les différents leaders religieux utilisaient chacun leurs Saintes Écritures comme livres de lois, et ils ne trouvaient rien qui interdisait de créer de la vie, donc ça doit être bon. Finalement les seules inquiétudes se concentraient sur l'idée de guerre biologique associé à la chose, mais ils nous ont permis de commencer ces expériences pour les raisons pour lesquelles nous étions en train de les faire. 
+A présent la Sloan Foundation vient juste de financer une étude multi-institutionelle sur la question, pour mettre au point les risques et les bénéfices pour la société, et les règles que les équipes scientifiques comme la notre doivent suivre dans ce domaine, et nous essayons de donner le bon exemple au fur et à mesure que nous avançons. 
+Ce sont des problèmes complexes. 
+Excepté pour la menace du bio-terrorisme, Ce sont de problèmes simples du genre, pouvons nous fabriquer des choses pour produire de l'énergie propre, peut-être révolutionnant ce que les pays développés peuvent faire et les fournir à travers de simples procédés. 
+Merci beaucoup. 
+Comme vous l'avez remarqué, à chaque fois que vous venez ici, vous apprenez quelque chose. 
+Ce matin, les experts mondiaux venant de trois ou quatre entreprises de fabrication de sièges, ont conclu, je pense, que finalement, la solution est que les gens ne devraient pas s'assoir. 
+J'aurais pu le leur dire. 
+ Hier, les types de l'automobile nous présentaient leurs nouvelles idées. 
+Ils ont souligné que, je crois que c'était d'ici 30 ou 50 ans, ils dirigeraient les voitures par l'électricité, sans toute cette mécanique. 
+ C'est rassurant. 
+ Ensuite ils ont sougligné qu'il y aurait, en quelques sorte, d'autres commandes électriques, pour se débarrasser de toute cette mécanique. 
+C'est pas mal, mais pourquoi ne pas supprimer les fils électriques ? 
+Ensuite, vous n'avez plus besoin de rien pour contrôler votre voiture, sauf d'y penser. 
+J'adorerais parler de la technologie, et un de ces jours, après les 15 minutes, je serais content de parler à tous les mordus de technologie présents ici de ce qu'il y a là dedans. 
+Mais si je devais dire une chose à ce propos, avant même de commencer, ça serait que au moment où nous avons démarré sa fabrication, l'idée principale n'était pas la technologie. 
+Ça a réellement été une grande idée technologique quand nous avons commencé à l'appliquer à l'iBOT pour les personnes handicapées. 
+Ici, la grande idée est, je pense, une nouvelle solution à un problème de transport majeur. 
+Pour mettre cela en perspective : il y a tellement de données là-dessus, je serai content de vous les donner sous différentes formes. 
+Vous ne savez jamais qui est séduit par telle ou telle idée, mais tout le monde admettra volontiers que la voiture a changé le monde. 
+Quand Henry Ford lança, il y a tout juste 100 ans, le modèle T. 
+Mais il y a une chose à laquelle je ne crois pas que beaucoup de gens pensent, c'est le contexte dans lequel une technologie intervient. 
+Par exemple, à cette époque, 91 pour cent des américains vivaient dans des fermes ou des petites villes. 
+Donc la voiture -- la carriole sans cheval qui remplaça le cheval et la carriole -- était un gros progrès ; ça allait deux fois plus vite qu'une carriole à cheval. 
+C'était deux fois moins long. 
+Et c'était un progrès environnemental, car par exemple, en 1903 ils interdirent les chevaux et les carrioles dans le centre-ville de Manhattan, parce que vous pouvez imaginer ce à quoi les routes ressemblent quand vous avez un million de chevaux, dont un million qui urinent, entre autres, et la typhoïde et d'autres problèmes créés étaient presque inimaginables. 
+Donc la voiture était l'alternative propre et environnementale au cheval et à la carriole. 
+C'était également une façon pour les gens d'aller de ferme en ferme, ou de ferme en village, ou du village jusqu'en ville. 
+C'était totalement rationnel, avec 91 pour cent des gens vivant là. 
+Dans les années 50, on commença à connecter toutes les villes entre elles avec ce que certains considèrent comme la huitième merveille du monde : le réseau d'autoroutes. 
+Et c'est sans aucun doute une merveille. 
+En passant, alors que je critique les vieilles technologies, je veux promettre à tout le monde, et à l'industrie automobile en particulier -- qui a été d'un grand support pour nous -- que je ne pense pas que cela concurrence les avions en quoi que ce soit, ou les voitures. 
+Mais pensez à là où en est le monde aujourd'hui. 
+50 pour cent de la population mondiale vit désormais en ville. 
+Ça fait 3.2 milliards de personnes. 
+Nous avons résolu tous les problèmes de transport qui on changé le monde pour nous amener là où nous sommes aujourd'hui. 
+Il y a 500 ans, naviguer sur des voiliers commençait à être suffisamment fiable; on a trouvé un nouveau continent. 
+Il y a 150 ans, les locomotives devinrent suffisamment efficaces, avec la vapeur, pour que nous transformions le continent en un pays. 
+Sur les 100 dernières années, on commençait à fabriquer des voitures, puis en l'espace de 50 ans on a connecté toutes les villes entre elles de façon extraordinairement efficace, et nous avons un très haut niveau de vie grâce à ça. 
+Mais pendant tout ce processus, de plus en plus de personnes sont nées, et de plus en plus de personnes déménagent vers les villes. 
+La Chine à elle seule va déplacer de quatre à six cent millions de personnes vers les villes dans les quinze prochaines années. 
+Et de même, personne, je pense, ne discutera le fait que les avions, durant les 50 dernières années, ont transformé le continent et le pays en un quartier. 
+Et si vous regardez la façon dont la technologie a été appliquée, nous avons résolu tous les problèmes de distance, de vitesse, de volume, de poids pour tout ce qui se déplace. 
+Personne ne voudrait se passer de cela. 
+Et je ne voudrais certainement pas abandonner mon avion, ou mon hélicoptère, ou mon Hummer, ou ma Porsche. 
+Je les aime tous. Je n'en garde aucun dans mon salon. 
+En fait, le problème est le dernier kilomètre, la moitié du monde vit maintenant dans des villes denses. 
+Les gens dépensent, selon qui ils sont, entre 90 et 95 pour cent de leur énergie à se déplacer à pied. 
+Je crois qu'il y a -- je ne sais pas quelles statistiques vous impressionneraient, mais à peu près 43 pour cent du pétrole raffiné dans le monde est consommé par des voitures dans les zones métropolitaines des Etats-Unis. 
+Trois millions de personnes meurent chaque année dans les villes à cause de la mauvaise qualité de l'air, et la quasi-totalité de la pollution particulaire sur cette planète est produite par les moyens de transport, particulièrement en ville. 
+Et à nouveau, je ne dis pas cela pour attaquer quelque industrie que ce soit, je pense -- vraiment -- j'aime mon avion, et les voitures roulant à 110 km/h sur l'autoroute sont extraordinairement efficaces, à la fois du point de vue de l'ingénierie, au niveau de la consommation d'énergie, et du point de vue utilitaire. 
+Nous aimons tous nos voitures, et moi aussi je les aime. 
+Le problème, c'est que vous arrivez en ville et vous voulez aller quatre pâtés de maisons plus loin, ce n'est ni drôle, ni efficace, ni productif. 
+Ce n'est pas durable. 
+Si -- en Chine, en 1998, 417 millions de personnes utilisaient leur vélo ; 1.7 million utilisaient des voitures. 
+Si cinq pour cent de cette population devenait, disons, des classes moyennes et voulait suivre le chemin que nous avons suivi durant les cent dernières années alors que dans le même temps 50 pour cent de leur population migrent vers des villes de la taille et densité de Manhattan, toutes les six semaines -- ce n'est pas durable pour l'environnement, ce n'est pas durable économiquement -- il n'y a tout simplement pas assez de pétrole. 
+Et ce n'est pas durable politiquement. 
+En fait, contre quoi nous battons nous en ce moment ? 
+On peut rendre ça compliqué, mais contre quoi le monde se bat-il maintenant ? 
+Il m'a donc semblé qu'il fallait que quelqu'un travaille sur ce dernier kilomètre, et c'était une aubaine ; nous étions en train de travailler sur les iBOTS. 
+Mais après avoir fini ça, nous avons décidé instantanément que cela pourrait être une belle alternative aux jet skis. Vous n'avez pas besoin d'eau. 
+Ou aux motoneiges. Vous n'avez pas besoin de neige. 
+Ou au ski. C'est juste marrant, et les gens adorent se déplacer en faisant des trucs marrants. 
+Et chacune de ces industries, au passage -- les voiturettes de golf sont un marché industriel de plusieurs milliards de dollars à elles seules. 
+Mais plutôt que d'aller déposer des licences pour cela, ce que nous faisons habituellement, il m'a semblé que si nous mettions tous nos efforts non pas dans la technologie, mais dans la compréhension d'un monde qui a résolu tous ses autres problèmes, mais qui en est venu à accepter tant bien que mal que les villes -- qui, depuis la Grèce antique, étaient conçues pour les piétons, les villes qui étaient dessinées et bâties pour les personnes -- ont maintenant une empreinte environementale, et ceci, alors que nous avons résolu tous les autres problèmes de transport -- et c'est comme la loi de Moore. 
+Je veux dire, regardez le temps que ça prenait pour traverser le continent dans les charriots des pionniers, puis en train, puis en avion. 
+Toutes les autres formes de transport ont été améliorées. 
+En 5000 ans, nous avons régressé pour les déplacements en ville. 
+Elles sont devenues plus grosses, elles se sont étalées. 
+L'immobilier le plus cher de la planète, dans chacune des villes -- Wilshire Boulevard, la cinquième avenue, Tokyo, ou Paris -- l'immobilier le plus cher est leur centre-ville. 
+65% de la surface de nos villes correspond aux voitures garées. 
+Pour les 20 plus grandes villes du monde. 
+Donc vous vous demandez, et si les villes pouvaient donner à leurs piétons ce que nous considérons comme acquis lorsque nous allons entre les villes ? 
+Et si on pouvait les rendre amusantes, attirantes, propres, respectueuses de l'environnement ? 
+Et si cela rendait un peu plus agréable d'y accéder via cela, en dernier maillon du transport collectif, pour arriver jusqu'à vos voitures afin de pouvoir tous vivre en banlieue et utiliser notre voiture comme on veut, et puis avoir nos villes vivantes à nouveau ? 
+Nous nous sommes dit que ça serait vraiment génial de faire ça, et un des problèmes qui nous a vraiment inquiété est comment monter légalement sur le trottoir, car techniquement j'ai des moteurs, j'ai des roues -- je suis dans un véhicule à moteur. 
+Je ne ressemble pas à un véhicule à moteur. 
+J'occupe la même surface au sol qu'un piéton, J'ai la même capacité unique à me débrouiller avec d'autres piétons dans un espace bondé. 
+J'ai pris ça jusqu'à Ground Zero, et je me suis frayé un chemin à travers la foule pendant une heure. 
+Je suis un piéton. Mais la loi a typiquement une génération ou deux de retard sur la technologie, et si on nous dit que nous n'avons pas notre place sur le trottoir, nous avons deux choix. 
+Soit nous sommes un véhicule de loisir qui ne compte pas vraiment, et je ne perds pas mon temps à faire ce genre de trucs, soit peut-être que nous devrions être sur la chaussée devant un autocar de tourisme ou un véhicule. 
+Nous avons été si préoccupés par cela, que nous avons été voir le chef des postes des Etats Unis, la première personne extérieure à qui nous nous sommes montrés, et dit, "Mettez des gens dessus, tout le monde fait confiance à son postier. 
+Et ils sont sur les trottoirs, et ils vont l'utiliser sérieusement." 
+Il a été d'accord. Nous sommes allés voir de nombreux commissariats de police : il voulaient que leurs officiers de police retournent dans les quartiers sur le bitume, portant 35 kilos de trucs. Ils adorent ça. 
+Et je n'arrive pas à croire qu'un policier va se donner une contravention à lui-même. 
+ Donc nous avons travaillé très, très dur, mais nous savions que la technologie ne serait pas aussi dure à développer qu'une attitude sur ce qui est important, et que la manière d'appliquer la technologie. 
+Nous sommes sortis et nous avons trouvé des visionnaires avec suffisamment d'argent pour nous laisser concevoir et construire ces choses, et en nous laissant, j'éspère, suffisamment de temps pour qu'ils soient acceptés. 
+Donc, je suis content, vraiment, je suis content de parler de cette technologie autant que vous le voulez. 
+Et oui, c'est vraiment amusant, et oui, vous devriez tous sortir et l'essayer. 
+Mais si je pouvais vous demander de faire une chose, c'est de ne pas le considérer comme de la technologie, mais juste d'imaginer que, bien que nous comprenions tous finalement qu'il est raisonnable d'utiliser notre engin de 2 tonnes, qui peut aller à 100 km/h, qui peut vous emmener ou vous voulez, et bizarrement nous l'utilisons aussi pour le dernier kilomètre, et c'est cassé, et ça ne marche pas. 
+Une des choses les plus excitantes qui nous soit arrivé, qui fera que ça sera peut-être accepté, se passa ici en Californie. 
+Il y a quelques semaines, après le lancement, nous étions ici avec une équipe de journalistes à Venice Beach, faisant des allers-retours à toute allure, et ils s'émerveillent sur la technologie, et pendant ce temps les vélos passent à toute allure, et les skateboarders passent à toute allure, et une petite vieille dame -- je veux dire, si vous regardez dans le dictionnaire, une vieille petite dame -- vint vers moi -- et moi je suis là-dessus, j'ai une taille d'adulte normal maintenant -- et elle s'arrête simplement, et la caméra est là, et elle me regarde et dit, "je peux l'essayer ?" 
+Et qu'est ce que j'allais -- vous savez, comment voulez-vous dire quelque chose ? 
+Et donc je dis, "bien sûr." 
+Donc je descends, elle monte dessus, et c'est pourtant pas commun, hein elle tourne et roule environ 8 mètres, et fait demi tour, et elle a un grand sourire. 
+Et elle revient vers moi et s'arrête, puis dit, "Enfin, ils ont fait quelque chose pour nous." 
+Et la caméra la fixe. 
+Je pense, "Wahou, c'était génial --  -- s'il vous plait, madame, ne dites plus un seul mot." 
+ Et la caméra la fixe et il faut qu'il y ait ce gars qui lui tende le micro, et dise, "Qu'est-ce que vous voulez dire pas là ?" 
+Et je pense, "C'est raté maintenant," et elle lève le regard et dit, "Eh bien," elle est encore en train de regarder ces gars qui roulent, elle dit "je ne peux pas faire de vélo", non, elle dit, "je ne sais pas faire de skateboard, et je n'ai jamais fait de roller, " elles les connaissait de nom ; elle dit, "et cela fait 50 ans que je n'ai plus fait de vélo". 
+Puis elle lève les yeux, elle regarde en l'air, et elle dit, "J'ai 81 ans, et je ne conduis plus de voiture, je dois encore aller jusqu'aux magasins, et je ne peux pas porter grand-chose." 
+Et soudain il me vint à l'esprit, que parmi mes nombreuses peurs, il n'y avait pas seulement le fait que la bureaucratie et les régulateurs et les législateurs ne comprendraient peut-être pas, mais c'était que, fondamentalement, vous pensez qu'il y a une demande populaire pour ne pas envahir le moindre bout du précieux espace disponible, les trottoirs de ces villes. 
+Quand vous regardez les 90 cm imposés par la loi pour les trottoirs, puis les 2 m 40 pour les places de stationnement, puis les 3 voies de circulation, et puis à nouveau 2 m 40 -- c'est -- ce petit bout, c'est tout ce qui reste. 
+Mais elle relève la tête et dit ça, et il m'a semblé, même si les enfants ne vont pas se préoccuper de ces choses, et qu'ils ne votent pas, et même si les gens du business et puis les jeunes adultes ne vont pas se préoccuper de cela, ils sont plutôt sympa, je crois que inconsciement, j'étais inquiet du fait que la population âgée allait s'inquiéter. 
+Donc, en ayant vu cela, et m'en étant inquiété pendant huit ans, la première chose que j'ai fait, c'est prendre mon téléphone et demander à nos gars du marketing et du droit, appelez l'Association Américaine des Personnes Retraitées, prenez un rendez-vous immédiatement. 
+Nous devons leur montrer cette chose. 
+Et ils ont emmené ça à Washington, ils leur ont montré, et ils vont être impliqués maintenant, en voyant comment ces choses s'intègrent dans de nombreuses villes, comme à Atlanta, où nous faisions des essais pour voir si cela pouvait réellement aider à revitaliser leur centre-ville. 
+ Le facteur décisif est, que vous fassiez confiance aux Nations Unies, ou à quelque autre groupe de réflexion -- dans les vingt prochaines années, toute la croissance en population de cette planète sera dans les villes. 
+Pour la seule Asie, ça sera plus d'un milliard de personnes. 
+Ils ont démarré directement avec les téléphones portables. 
+Ils n'ont pas eu à emprunter le même chemin de 100 ans que nous. 
+Ils commencent au top de la chaine alimentaire de la technologie. 
+Nous devons commencer à construire des villes et des environnements humains où quelqu'un de 75 kg peut se déplacer sur quelques kilomètres dans un environnement dense, riche, avec des espaces verts, sans être dans une machine de 2 tonnes pour faire cela. 
+Les voitures n'ont pas été inventées pour se garer en parallèle ; ce sont de merveilleuses machines pour aller entre les villes, mais pensez-y bien : nous avons résolu tous ces problèmes de longue distance et de haute vitesse. 
+Les Grecs allaient du théâtre de Dionysos au Parthénon en sandales. 
+Vous le faites en baskets. 
+Ça n'a pas changé tant que cela. 
+Si cette chose va seulement trois fois plus vite que la marche -- 3 fois -- une marche de 30 minutes devient 10 minutes. 
+Votre choix, quand vous vivez en ville, si c'est désormais 10 minutes -- parce que pour 30 minutes vous voulez une alternative, que ce soit un bus, un train. 
+Pour cela nnous devons construire une infrastructure -- des rails de tramway -- ou alors vous allez continuer à garer ces voitures. 
+Mais si vous pouviez placer une punaise sur la carte d'une ville, et imaginer jusqu'où vous pourriez, si vous aviez le temps, aller à pied en une demi-heure : c'est toute la ville. 
+Si vous pouviez rendre ça amusant, et le faire en 8 ou 10 minutes, vous n'avez pas à trouver votre voiture, la sortir du parking, la déplacer, la garer et aller quelque part; vous n'irez plus prendre un taxi ou le métro. 
+Nous pourrions changer la façon dont les gens allouent leurs ressources, la façon dont cette planète utilise son énergie, rendre cela plus marrant. 
+Et nous espérons en quelques sorte que l'histoire dira que nous avions raison. 
+Voici le Segway. Et voici un moteur Stirling ; il avait été un peu oublié avec tout ce que nous faisons. 
+Cette petite bête, là, produit quelques centaines de Watts d'électricité. 
+Oui, ça pourrait être attaché à ça, et oui, avec un kilogramme de propane, vous pourriez aller de New York à Boston si vous le désiriez. 
+Mais ce qui est peut-être plus intéressant à propos de ce petit engin c'est qu'il brule n'importe quel carburant, car certains d'entre vous sont peut-être sceptiques quant à l'impact que cela pourrait avoir, alors que la plupart des gens ont juste à le brancher dans leur prise de courant. 
+Nous avons travaillé là-dessus, en fait, comme une source d'énergie alternative, en commençant il y a longtemps avec Johnson &amp; Johnson, pour faire fonctionner un iBOT, car les meilleures batteries que vous pouviez avoir -- 10 Watt-heure par kilogramme en plomb, 20 Watt-heure par kilogramme en nickel cadmium, 40 Watt-heure par kilogramme en nickel-hydrure métallique, 60 Watt-heure par kilogramme en lithium, 8750 Watt-heure d'énergie dans chaque kilogramme de propane ou d'essence - c'est pourquoi personne ne conduit de voiture électrique. 
+Mais, dans tous les cas, si vous pouvez le brûler avec le même rendement -- car c'est une combustion externe -- comme dans votre gazinière, si vous pouvez brûler n'importe quel carburant, ça devient plutôt séduisant. 
+Cela produit tout juste assez d'électricité pour, par exemple, faire ça, ce qui, pendant la nuit, est assez d'électricité, pour le reste du monde, comme M. Holly -- Dr. Holly -- l'a remarqué, peut faire marcher un ordinateur et allumer une ampoule. 
+Mais, et c'est plus intéressant, la thermodynamique nous dit que l'on n'aura jamais une efficacité supérieure à 20%. 
+Ce n'est pas si grave -- cela veut dire que si vous obtenez 200 W d'électricité, vous aurez sept ou huit cents watts de chaleur. 
+Si vous vouliez faire bouillir de l'eau et la re-condenser à un rythme de 40 litres par heure, il faut pour cela environ 25, un plus, 25.3 kilowatts -- 25000 watts de puissance continue -- pour le faire. 
+C'est tellement d'énergie que vous ne pourriez pas dessaler ou nettoyer l'eau dans ce pays de cette façon. 
+C'est sûr, dans le reste du monde, vous pouvez dévaster le lieu, en transformant tout ce qui brule en chaleur, ou boire l'eau qui est disponible. 
+La première cause de mortalité humaine sur cette planète est la mauvaise qualité de l'eau. 
+En fonction ceux à qui vous faites confiance pour vos chiffres, cela fait entre 60 et 85000 personnes par jour. 
+Nous n'avons pas besoin de greffes de cœurs compliquées à travers le monde. 
+Nous avons besoin d'eau. 
+Et les femmes ne devraient pas être obligées de passer quatre heures par jour pour en chercher, sous peine de voir leurs enfants mourir. 
+Nous avons réussi à mettre un distillateur à compression de vapeur sur ce truc, avec un échangeur thermique à contre courant pour récupérer la chaleur perdue, puis en utilisant quelques contrôles électriques, ce procédé, avec 450 watts, ce qui un peu plus que la moitié de sa chaleur perdue, il va faire 40 litres d'eau distillée par heure à partir de ce que l'on a mis dedans pour le refroidir. 
+Donc si nous mettons cette boite ici dans quelques années, pourrons-nous avoir une solution au transport, à l'électricité, et la communication, et peut-être à l'eau potable dans un ensemble durable qui pèse 30 kilos ? 
+Je ne sais pas, mais on va essayer. 
+Je ferais mieux de me taire. 
+ Je voudrais commencer en disant : "Houston, nous avons un problème." 
+Nous entrons dans une seconde génération sans progrès en termes de vol spatial habité. En fait, nous avons même régressé. 
+On a une très grande chance de perdre notre capacité à inspirer notre jeunesse pour explorer et continuer cette chose très importante que, en tant qu'espèce, nous avons toujours faite. 
+C'est ainsi que, par instinct, nous sommes partis explorer, nous nous sommes hissés vers des endroits difficiles, nous sommes allés dans des lieux toujours plus hostiles. 
+Nous nous sommes rendus compte plus tard, peut-être à notre surprise, que c'est grâce à cela que nous avons survécu. 
+Et je pense vraiment que ça ne suffit pas d'avoir des générations de gamins qui pensent qu'il suffit d'attendre avec impatience la nouvelle version d'un téléphone portable avec une fonction vidéo intégrée. 
+Ils ont besoin d'aspirer à l'exploration, la colonisation et aux percées technologiques. C'est de cela qu'ils ont besoin. 
+Nous devons les inspirer parce qu'ils ont besoin de nous conduire et de nous aider à survivre dans le futur. 
+Ce qui m'inquiète particulièrement, c'est ce que la NASA est en train de faire avec cette nouvelle doctrine de George W. Bush pour les quinze prochaines années -- oh, mince, j'ai foiré. 
+On reçoit des instructions très spécifiques de ne pas parler de politique. 
+ Ce que nous attendons avec impatience, c'est --  Ce que nous attendons avec impatience, ce n'est pas seulement de l'inspiration pour nos enfants. 
+Les plans actuels ne permettent même pas vraiment aux gens les plus créatifs de ce pays -- les ingénieurs dans le spatial chez Boeing et Lockheed Martin -- de prendre des risques et de tenter des choses nouvelles. 
+Nous retournons sur la Lune, 50 ans plus tard, et nous y retournons en planifiant tout, explicitement afin de ne rien apprendre de neuf. 
+Ca m'inquiète vraiment. Mais de toute manière, ce que je veux partager avec vous aujourd'hui, c'est de la façon d'inspirer les gens qui seront nos grands leaders de demain. 
+Ce sera le thème de mes 15 prochaines minutes ici. 
+Et je pense que l'inspiration commence quand vous êtes très jeune : enfant de 3 à 12 voire 14 ans. 
+Ce qu'ils observent sont les choses les plus importantes. 
+Jettons un oeil sur l'aviation. 
+Il y a eu une magnifique courte période de quatre ans pendant laquelle des choses formidables se sont passées. 
+Ca a comencé en 1908, quand les frères Wright ont volé à Paris et que tout le monde s'est dit : "Hé, moi aussi je suis capable de faire ca". Il y avait très peu de personnes qui avait volé au début de 1908. En quatre ans, 39 pays avaient des centaines d'avions, des milliers de pilotes. Les avions ont été inventés par la sélection naturelle. 
+Maintenant, vous pouvez dire que nos avions actuels sont le fruit d'un procédé bien pensé, mais il n'y avait rien qui ressemble à un design intelligent avec ces premiers avions. 
+Il y a probablement eu au moins 30 000 idées différentes qui ont été essayées et quand l'avion s'écrasait et tuait le pilote, on ne refaisait plus pareil. 
+Ceux qui volaient et atterrissaient correctement - parce qu'il n'y avait pas de pilotes formés - avaient de bonnes qualités de vol à ce moment là, par définition. 
+Alors, en faisant tout un tas d'essais, des milliers d'essais pendant cette courte période de 4 ans, on a inventé les bases des avions qui volent aujourd'hui. Et c'est pour ça qu'ils sont si sûrs, car on s'est donné les moyens de trouver ce qui était bon. 
+Ca ne s'est pas passé comme ça pour les vols spatiaux. 
+On a essayé deux concepts seulement, deux par les Américains et un par les Russes. 
+Eh bien, qui a-t-on fait rêvé durant cette période? 
+L'hebdomadaire Aviation Week m'a demandé de faire une liste de ceux que je pensaient être les précurseurs des 100 premières années de l'aviation. 
+J'ai écrit la liste et je me suis rendu compte que chacun d'entre eux était un enfant lors de ce magnifique âge d'or de l'aviation. 
+Eh bien, que s'est-il passé lorsque j'étais enfant ? Pas mal de choses aussi. 
+L'ère des avions à réaction commençait, celle des missiles aussi. Von Braun était en train de montrer comment aller sur Mars - et c'était avant Spoutnik. 
+Et c'était à une époque où la planète Mars était terriblement plus intéressante qu'elle ne l'est maintenant. On pensait qu'il y aurait des animaux, on savait qu'il y avait des plantes, les couleurs changent, pas vrai ? 
+Mais, vous savez, la NASA a tout foutu en l'air en envoyant ces robots et ils n'ont atterri que dans les déserts. 
+ Si on regarde à ce que s'est passé, cette petite ligne noire est la vitesse la plus élevée à laquelle un homme ait jamais volé, et la ligne rouge est celle du maximum pour les chasseurs militaires, et la ligne bleue, celle des transports commerciaux. 
+Vous voyez ici, il y a un grand saut. Quand j'étais petit, et je pense que c'est lié au fait de me donner le courage d'explorer et de tenter des choses nouvelles que les autres n'avaient pas le courage d'essayer. 
+Eh bien, qu'est ce que je faisais quand j'étais petit ? 
+Je ne m'occupais pas de vieilles voitures, des filles ou de booms. 
+Et aussi, on avait pas de drogues en ce temps-là. Mais je faisais des avions pour des compétitions de modélisme. 
+J'ai passé environ sept ans pendant la guerre du Vietnam à tester des avions d'essais pour l'Air Force Et ensuite, je m'en suis allé et je me suis beaucoup amusé en construisant des avions que les gens peuvent construire dans leur garage. 
+Et plus de 3000 de ces avions volent. Evidemment, l'un d'entre eux, Voyager, fait le tour du monde. En 1982, j'ai fondé une autre entreprise qui est ma société actuelle. 
+Et on a développé plus d'un nouveau type d'avion par an depuis 1982. 
+Et il y en a beaucoup que je ne peux en fait pas vous montrer sur ce tableau. 
+L'avion le plus impressionant de tous les temps, à mon avis, a été conçu seulement une douzaine d'année après que le premier réacteur d'avion est devenu opérationnel. 
+Il est resté en service jusqu'au moment où il était trop rouillé pour voler. 
+On a retiré du service en 1998 quelque chose qui avait été développé en 1956. Quoi ? 
+Le vaisseau spatial le plus impressionant de tous les temps, à mon avis, était l'alunisseur Grumman Lunar Lander. Vous savez, atterrir sur la Lune, décoller de la lune, sans besoin du personnel de maintenance, c'est plutôt cool. 
+On a perdu cette capacité. On l'a abandonnée en 1972. 
+Cet engin a été conçu seulement trois ans après que Gagarine aille dans l'espace pour la première fois en 1961. 
+Trois ans ... Et on ne sait plus faire ça maintenant. 
+C'est insensé. Parlons brièvement des cycles d'innovation, des choses qui grandissent, connaissent une activité importante et ensuite s'effacent et sont remplacées par autre chose. 
+Ces cycles arrivent tous 25 ans, 40 ans avec des chevauchements. On peut voir ça dans tous les types de technologies. 
+Au fait, ici : "Vitesse maximum atteinte" est le titre de ces cycles d'innovation. Mais il n'y en a aucune ici. 
+Ces deux nouveaux avions vont a la même vitesse qu'un DC8 qui lui a été fabriqué en 1958. 
+Voila le point clef, et c'est qu'il n'y a pas de cycles d'innovations si le gouvernement développe et utilise quelque chose. 
+Vous savez, un bon exemple est, bien sûr, Darpanet. 
+Les ordinateurs ont été utilisés d'abord pour l'artillerie, ensuite pour les impôts. 
+Mais quand on s'y est mis, on voit le niveau d'activité et tous les bénéfices qui en découlent. Le secteur privé doit s'en charger. 
+Gardez ça l'esprit. 
+J'ai cherché des cycles d'innovations dans le spatial et je n'en ai pas trouvés. 
+La toute première année, quand Gagarine est allé dans l'espace et quelques semaines plus tard, Alan Shepard, il y a eu cinq vols habités dans le monde ; la toute première année. 
+En 2003, tous ceux que les Etats-Unis ont envoyés dans l'espace ont été tués. 
+Il y a seulement eu trois ou quatre vols en 2003. 
+En 2004, il a seulement eu deux vols : deux vols russes sur Soyouz vers la Station Spatiale Internationale. Et j'ai dû en faire trois depuis le désert de Mojave avec mon petit groupe de quelques dizaines de personnes pour arriver à un total de cinq : ce qui était le même nombre qu'en 1961. 
+Il n'y a pas de croissance, pas d'activité, rien du tout. 
+Voici une photo prise depuis SpaceShipOne. 
+C'est une photo prise depuis l'orbite. 
+Notre but, c'est de faire en sorte que vous puissiez avoir cette vue et vraiment en profiter. 
+Maintenant, on sait comment faire pour les vols suborbitaux, de manière sûre, au moins aussi sûre que les premières compagnies d'aviation, ça c'est faisable. 
+Et je pense que je veux aborder pourquoi nous avons eu le courage de sortir des sentiers battus et d'essayer même en étant une petite entreprise. 
+Bien, tout d'abord, quelle est la prochaine étape ? 
+La première industrie sera avec de gros volumes et beaucoup d'acteurs. 
+Il y a eu une annonce de plus, rien que le semaine dernière. 
+Et ça sera suborbital. La raison pour laquelle ça doit être suborbital, c'est qu'il n'y a pas encore de solution assez sûre pour faire voler le grand public en orbite. Les gouvernements l'ont fait, trois gouvernements l'ont fait pendant ces 45 dernières années et 4% des gens qui ont quitté l'atmosphère en sont morts. 
+Vous ne pouvez pas faire marcher un business avec ce genre de statistiques. 
+Ce sera en volumes très importants : nous pensons que 100 000 personnes voleront d'ici à 2020. 
+Je ne peux pas vous dire quand cela commencera, parce que je ne veux pas que mes compétiteurs connaissent mon agenda. 
+Mais je pense qu'une fois que ça démarrera, on trouvera des solutions. 
+Et très vite, vous verrez des complexes hôteliers en orbite. 
+Et un truc vraiment simple à faire, c'est un passage autour de la Lune où on peut avoir cette vue sensationelle. Ça sera vraiment sensationnel. 
+Parce que la Lune n'a pas d'atmosphère on peut faire une orbite elliptique et éviter la surface à 3 mètres près si vous voulez. 
+Oh, ça va être le pied. 
+ Bon, mes critiques disent : "Hé, Rutan est juste en train de dépenser plein d'argent de ces milliardaires pour se balader dans l'espace. 
+Ca rime à quoi ? C'est pas un système de transport, c'est juste pour s'amuser." 
+Et avant ça m'ennuyait ces commentaires, mais après j'ai réfléchi. 
+attendez une minute. J'ai acheté mon premier ordinateur Apple en 1978. 
+et je l'ai acheté parce que je pouvais dire : "J'ai un ordinateur chez moi et pas vous." 
+"Et ça sert à quoi ? Venez voir il y a Frogger." Bon. 
+ Pas les ordinateurs des banques ou de Lockheed mais les ordinateurs personnels, c'était pour s'amuser. 
+Et pendant toute une décennie, c'était pour s'amuser, on ne savait même pas à quoi ça pourrait servir. 
+Mais ce qui s'est passé, le fait qu'il y a eu cette industrie importante, des gros développements, grandes améliorations et possibilités et ainsi de suite, et ils étaient installés dans assez de foyers, nous étions mûrs pour une nouvelle invention. 
+Et l'inventeur est dans la salle. 
+Al Gore a inventé l'internet et, grâce à ça, ce qui était utilisé pendant toute une année, pardon, pendant toute une décennie pour s'amuser - a tout transformé, notre commerce, notre recherche, nos communications et si on laisse les gens de chez Google réfléchir quelques week-ends de plus, on va ajouter une douzaine de choses à la liste. 
+Et il ne faudra pas longtemps avant que vous ne puissiez convaincre des gosses qu'on n'a pas toujours eu des ordinateurs dans nos maisons. 
+Donc s'amuser est un argument défendable. 
+OK, je veux vous montrer d'image trop chargée, mais dedans on y retrouve ma prédiction de ce qui va se passer. 
+Et ca m'amène aussi à un autre point, juste ici. 
+Il y a un groupe de personnes qui se sont manifestées et vous ne les connaissez pas tous, mais ceux qui se sont manifestés ont été inspirés quand ils étaient enfants, entre 3 et 15 ans, par nous qui allions en orbite et sur la Lune, juste ici, juste dans cette période de temps. 
+Paul Allen, Elan Musk, Richard Branson, Jeff Bezos, la famille Ansari, qui finance maintenant les activités suborbitales russes, Bob Bigelow, une station spatiale privée, et Carmack. 
+Ces gens prennent de l'argent et le mettent dans un secteur intéressant et, à mon avis, c'est bien mieux que de le mettre pour avoir de meilleurs téléphones portables ou autres. Mais ils le mettent dans dans secteurs qui vont nous mener vers ce genre de nouvelles possibilités et qui nous mèneront vers la prochaine grande étape et cela nous permettra d'explorer. Et je pense que finalement ça nous permettra de coloniser et d'éviter l'extinction de la race humaine. 
+Ils ont été inspirés par des progrès énormes. Mais regardons à ce qui s'est passé après. 
+Il avait quelques exemples ici. 
+Le plus performant des chasseurs militaires était le SR71. Il a duré tout un cycle et est devenu trop rouillé pour voler. 
+Il a été retiré du service. Le Concorde a doublé la vitesse du transport aérien. 
+Il a duré tout un cycle de vie sans concurrence puis été retiré du service. Et on est toujours coincé ici avec le même genre de performances pour les chasseurs militaires et les vols commerciaux que ce qu'on avait à la fin des années 50. 
+Mais quelque chose existe pour faire rêver nos enfants aujourd'hui. 
+Et je parle de ceux qui ont un bébé maintenant, ou un enfant de 10 ans. 
+Ce qu'il y a, c'est que quelque chose de très intéressant va se passer ici. 
+Assez rapidement, il vous sera possible d'acheter un ticket et de voler plus haut et plus rapidement que les meilleurs chasseurs militaires en activité. Ça n'a jamais été le cas avant. 
+Le fait qu'ils soient coincés là avec ce genre de performances était, bien vous savez, vous gagnez la guerre en 12 minutes, pourquoi avez-vous besoin de quelque chose de meilleur ? 
+Mais je pense que, quand vous ici commencerez à acheter des tickets et à voler sur des vols suborbitaux vers l'espace, très bientôt -- attendez une minute, qu'est-ce qui se passe ici, on aura des chasseurs militaires avec des capacités suborbitales et ça très bientôt, à mon avis. 
+Mais ce qui est intéressant ici, c'est que des gens vont y arriver en premier avec des fonds privés. 
+J'attends vraiment avec impatience la prochaine course capitaliste vers l'espace. 
+Vous vous souvenez que la course à l'espace dans les années 60 était pour le prestige national parce que nous avons perdu les deux premières étapes importantes. 
+Nous ne les avons pas perdues techniquememt. Le fait est que nous avions le matériel pour envoyer quelque chose en orbite quand on a laissé Von Braun le faire voler. 
+On peut soutenir que ce n'était pas un défaite technique. 
+Spoutnik n'était pas un défaite technique mais une perte de prestige. 
+Le monde a vu les Etats-Unis n'étant pas les leaders technologiques et c'était quelque chose de très fort. 
+Et après on a fait voler Alan Shepard, quelques semaines après Gagarine, pas des mois, ni des années ou quoi que ce soit. Ainsi on en avait la capacité. 
+Mais les Etats-Unis ont perdu. On a perdu. Et à cause de cela, on a fait un grand bond en avant pour récupérer. 
+Et à nouveau, ce qui est intéressant ici, c'est que nous avons perdu face aux Russes sur les quelques premières étapes. 
+On ne peut pas acheter un ticket pour aller dans l'espace aux Etats-Unis. 
+On ne peut pas. Mais on peut en acheter un en Russie. 
+On peut voler sur de l'équipement russe. C'est disponible parce que le programme spatial russe meurt de faim. 
+C'est bien pour eux d'avoir 20 millions ici et là pour occuper un des sièges. 
+C'est commercial, ça peut être défini comme du tourisme spatial. Ils proposent aussi un voyage pour faire cette boucle autour de la Lune, comme Apollo 8. 
+100 millions de dollars -- Hé, je peux aller sur la Lune. 
+Mais vous savez, qui aurait pensé, dans les années 60, en plein milieu de la course à l'espace, que la première activité commerciale de style capitaliste, acheter un billet pour aller sur la Lune, se ferait avec du matériel russe ? 
+Et auriez-vous pensé, les Russes auraient-ils pensé que la première fois qu'ils iraient sur la Lune avec leur équipement, les gars à l'intérieur ne seraient pas Russes ? Peut-être que ce sera un milliardaire japonais ou américain ? Eh bien, c'est bizarre vous savez, vraiment. 
+Mais de toute façon, je pense que nous devons les battre à nouveau. 
+Je pense que ce qu'on fera, c'est qu'on verra une brillante, très brillante, industrie privée du vol spatial habité. Qu'on soit les premiers ou pas n'a pas vraiment d'importance. 
+Les Russes ont, en fait, fait voler un avion de transport supersonique avant le Concorde. 
+Ensuite ils ont fait plusieurs vols de cargo et l'ont retiré du service. 
+Je pense qu'on peut voir le même genre de parallèle quand les possibilités commerciales seront disponibles. 
+Bon, on va parler un petit peu des développements commerciaux pour les vols habités. 
+Cette petite chose dit qu'ils représenteront cinq fois ce que la NASA fera en 2020. Je voudrais déjà vous dire qu'il y a entre 1,5 milliard et 1,7 milliard de dollars d'investissement dans les vols spatiaux privés qui ne viennent pas du tout gouvernement ; déjà et dans le monde entier. Si vous lisez ou utilisez Google, vous pouvez trouver environ la moitié de cette somme, mais le double a été engagé, pas encore dépensé mais déjà engagé et prévu pour les prochaines années. Et c'est plutôt beaucoup. 
+Cependant, je prédis que cette industrie va être très rentable, elle va sûrement l'être quand on fait voler des gens pour 200 000 dollars avec quelque chose qui vous coûte un dixième du prix à mettre en oeuvre, ou moins, ça va être très rentable. 
+Je prédis aussi que les investissements qui vont être injectés seront aux alentours de la moitié de ce que les contribuables américains dépensent pour le programme de vol habité de la NASA. 
+Et chaque dollar injecté dedans sera utilisé plus efficacement d'un facteur de 10 ou 15. Et ça veut dire que, avant qu'on s'en rende compte, le progrès dans les vols spatiaux habités, sans argent du contribuable, sera à un niveau 5 fois plus important que le budget actuel de la NASA pour les vols spatiaux habités. 
+Et cela, parce que c'est nous. C'est le privé. 
+On ne devrait jamais dépendre du gouvernement pour ce genre de choses. 
+On l'a fait pendant une longue période. La NACA, avant la NASA, n'a jamais développé un avion de ligne ou opéré une compagnie aérienne. 
+Mais la NASA a développé une compagnie de transport spatial, l'a toujours fait, et opère la seule compagnie de transport spatial. Et nous nous en sommes tenus à l'écart parce qu'on en avait peur. Mais en juin 2004, quand j'ai montré ce qu'un petit groupe isolé pouvait vraiment faire, pouvait démarrer quelque chose, tout a changé après ça. 
+Bon, merci beaucoup. 
+ Un public, observait déjà Dewey, est formé au travers de la discussion et du débat. Si nous devons questionner la tyrannie des idées préconçues, et éviter la doxa, le domaine de l'incontesté, alors nous devons accepter de soumettre nos propres hypothèses au débat et à la discussion. C'est dans cet état d'esprit que j'ai rejoint une discussion sur l'un des plus sensibles problèmes actuels : comment mobiliser différentes formes de capital afin de construire un État. 
+Enonçons clairement nos hypothèses : le capitalisme, après 150 ans, est devenu acceptable, au même titre que la démocratie. Si nous prenons le monde tel qu'il était en 1945, et nous regardons sur la carte les économies capitalistes et les systèmes démocratiques, ces pays étaient l'exception, et non la norme. Toutefois, la question actuelle se porte à la fois sur la forme du capitalisme et sur le type de participation démocratique. Mais nous devons reconnaître que la période contemporaine a vu la naissance d'un consensus rare sur les hypothèses, et que ce consensus fournit la base de l'action, puisque le consensus nous permet d'agir. Et il est nécessaire, aussi provisoire et fragile que puisse sembler le consensus, d'être capable d'agir pour avancer. 
+Mais la majorité du monde ne bénéficie ni du capitalisme ni de l'organisation démocratique. La plupart des habitants du globe considère l'État comme une institution répressive, une structure qui nie leurs droits, la justice, au lieu de de les garantir. En termes d'expérience du capitalisme, il y a deux aspects que cette partie du monde connaît. Tout d'abord, les industries extractives. 
+Les diamants de conflits, les émeraudes de contrebande, le bois, qui ne bénéficient pas aux plus pauvres. Le deuxième élément est l'assistance technique. Et l'assistance technique, cela peut vous choquer, est actuellement la pire forme de cette face sombre du monde développé envers les pays en voie de développement. Des dizaines de milliards de dollars sont supposées être dépensées pour la formation avec des consultants touchant jusqu'à 1 500 dollars par jour, qui sont incapables de penser de façon créative, ou organique. 
+L'hypothèse suivante -- et j'exprime ma profonde compassion envers les victimes des événements du 7 juillet 2005 et du 11 septembre -- est que nous ne vivons pas dans trois mondes différents. 
+Nous vivons dans un seul monde. C'est simple à dire, mais nous ne tirons pas les conséquences de ce monde unique dans lequel nous vivons. Cela signifie que si nous voulons avoir un monde unifié, celui-ci ne peut être divisé en considérables poches d'exclusion, d'une part et en zones d'inclusion, d'autre part. Nous devons désormais en venir à réfléchir aux conditions de réalisation d'un monde véritablement global, que ce soit en terme de droits, de devoirs et de responsabilité qui auraient une portée vraiment globale. Dans le cas contraire nous allons manquer cette occasion unique dans l'histoire, où il existe un consensus sur les formes actuelles de la politique et de l'économie. 
+Quelle organisation choisir ? Nous avons trois paramètres essentiels : l'économie, la société civile et l'État. Je ne parlerai pas des deux premiers, sauf pour souligner que la transposition aveugle des hypothèses, d'un contexte à un autre, ne peut qu'aboutir au désastre. L'économie, telle qu'elle est enseignée dans les plus grandes universités, est quasiment inutile dans mon contexte. Mon pays est dominé par le trafic de drogue et la mafia. Les manuels d'économie ne peuvent rien m'apprendre dans ce contexte, et j'ai très peu de conseils, de qui que ce soit, en ce qui concerne la mise en place d'une économie légale. La pauvreté de notre savoir doit être la base de notre capacité à agir, et non pas la transposition d'une structure fondée sur une modélisation mathématique, pour laquelle j'ai un énorme respect. Mes collègues de Johns Hopkins sont parmi les meilleurs dans ce domaine. 
+Puis, au lieu de débattre à l'infini sur la structure de l'État, pourquoi ne pas simplifier et dire, quelles sont les fonctions essentielles qu'un État, au XXIè siècle, doit assurer ? 
+Clare Lockhart et moi-même écrivons un livre à ce sujet, et nous espérons en partager le contenu très largement avec -- et, enfin, il faudrait pouvoir créer un index pour comparer dans quelle mesure ces fonctions, sur lesquelles nous nous sommes mis d'accord, sont assurées dans différents pays. 
+Quelles sont, ces fonctions ? Nous en proposons 10. 
+Il s'agit du monopole de la violence, du contrôle administratif, de l'administration des finances publiques, de l'investissement dans le capital humain, de l'octroi de la citoyenneté, du financement des infrastructures, de la gestion des actifs matériels et immatériels de l'État par la régulation, la création du marché, les accords internationaux -- emprunts publics compris -- et enfin, le plus important, de l'État de droit. 
+Je n'irai pas plus en détails. J'espère que les questions m'en donneront l'opportunité. C'est un objectif faisable, simplement parce que contrairement à une croyance répandue, je pense que nous savons comment l'accomplir. Qui aurait pu imaginer, en 1943 à Oxford, que l'Allemagne serait Mais les décideurs à Oxford avaient prévu une Allemagne démocratique et ont planifié en conséquence. 
+De nombreux exemples similaires à celui-ci existent. 
+Désormais, afin de parvenir à ce but -- et ceci me ramène à notre groupe -- nous devons repenser la notion de capital. 
+La composante la moins importante du capital, dans ce projet est le capital financier -- l'argent. L'argent n'est pas un capital dans la plupart des pays en développement. 
+Il n'est qu'une facilité de paiement. Et ceci parce qu'il manque les formes institutionnelles, organisationnelles, et manageriales pour en faire un capital. Et ce qui est nécessaire, c'est la combinaison d'un capital physique, d'un capital institutionnel, d'un capital humain -- la sécurité est également fondamentale, bien sûr, tout comme l'information. 
+Le problème qui nous concerne ici, et c'est un défi que j'aimerais vous poser, est qu'encore une fois il faut 16 ans d'études dans vos pays pour former une personne avec une licence. 
+Il en faut 20 pour former une personne avec un doctorat. 
+Le premier défi est de repenser, fondamentalement, le problème du temps. Avons-nous besoin de reprendre les modalités que nous avons héritées ? Nos systèmes éducatifs proviennent du XIXe siècle. Que devons-nous absolument faire pour nous ré-engager dans un projet où la formation du capital est rapide ? La majorité absolue de la population mondiale a moins de 20 ans, et elle augmente sans cesse. Il faut des façons différentes d'approcher cette population. Des façons différentes de l'affranchir, de lui donner des capacités. 
+C'est le premier élément. 
+Deuxièmement, vous trouvez des solutions, mais vous n'engagez pas votre responsabilité globale. Vous êtes restés à l'écart des problèmes de corruption. Vous ne souhaitez que des environnements propres dans lesquels fonctionner. 
+Mais si vous ne réfléchissez pas aux problèmes de corruption, qui le fera ? Vous demeurez loin des questions de développement. Vous êtes de grands inventeurs, mais vos inventions sont égoïstes. Elles ne sont que pour votre usage immédiat. Le monde dans lequel j'agis utilise des schémas de routes, de barrages, ou d'acheminement d'électricité qui n'ont pas été revus depuis 60 ans. 
+Ce n'est pas juste. Il faut y réfléchir. 
+Mais ce dont nous avons particulièrement besoin de votre part, c'est que votre imagination soit amenée à se concentrer sur les problèmes liés au fonctionnement des mèmes. Comme l'ont montré, depuis longtemps, les recherches sur les paradigmes -- les travaux de Thomas Kuhn -- c'est à l'intersection des idées que de nouveaux développements -- les réelles avancées -- se réalisent. Et j'espère que ce groupe sera capable de réfléchir aux problèmes de l'État, du développement, et du renforcement du pouvoir de la majorité des populations pauvres, de cette façon. 
+Merci. 
+Chris Anderson : Donc, Ashraf, jusqu'à il y a peu vous étiez le ministre des finances Afghan, un pays qui se trouve actuellement au centre des préoccupations mondiales. Le pays va-t-il s'en sortir ? 
+La démocratie va-t-elle se répandre ? Qu'est ce qui vous fait le plus peur ? 
+Ashraf Ghani : Ce qui me fait le plus peur, c'est -- c'est vous. 
+Votre manque d'engagement.  Vous me demandez, vous savez que je donne toujours des réponses inattendues. 
+Mais, sérieusement, le premier problème est qu'il faut considérer l'Afghanistan dans une perspective d'au moins 10 à 20 ans. De nos jours, la mondialisation accélère la marche du monde. Le temps a été compressé. Et l'espace n'existe plus pour la plupart des gens. Mais dans mon monde, dans cet Afghanistan où je suis revenu après 23 ans, l'espace s'est au contraire dilaté. Chaque infrastructure imaginable a été détruite. J'ai parcouru -- voyagé -- un chemin entre deux villes qui prenait auparavant 3 heures et en prend maintenant 12. Lorsque nous sommes dans cette échelle, il faut simplement reconnaître les caractéristiques de l'infrastructure -- il faut 6 ans pour fournir de l'infrastructure. Dans notre monde. Toutes sortes de choses essentielles comme celle-ci. 
+Mais c'est la modalité de l'attention, ou "ce qui se produit aujourd'hui, et ce que se produit demain". 
+Le deuxième problème concerne le fait que mon pays a été soumis a l'une des plus immense et brutale forme d'exercice du pouvoir -- nous avons été occupés par l'Armée Rouge, forte de 110,000 hommes, pendant 10 ans. C'était terrorisant. 
+Le ciel. Chaque, je dis bien chaque, Afghan craint le ciel. Nous sommes bombardés. Nous ne pouvons plus vivre. Et il y a des dizaines de milliers de personnes entrainées aux techniques terroristes. De tous côtés. 
+Les États-Unis, la Grande-Bretagne, ont coopéré, par exemple, avec les services secrets égyptiens pour former des milliers de personne à la guerilla urbaine et aux techniques terroristes. Comment faire exploser une bombe, comment transformer un vélo, un âne, un cheval de trait, n'importe quoi, en instrument de terreur. Les Russes ont fait de même. 
+Donc, quand la violence surgit dans un pays comme l'Afghanistan, c'est en raison de cet héritage. Mais nous devons aussi comprendre que nous avons été incroyablement chanceux. Je veux dire, je ne peux vraiment croire la chance que j'ai de me trouver ici, devant vous, à parler. 
+Lorsque j'ai accepté le poste de Ministre des Finances, j'ai pensé que mes chances de survivre plus de 3 ans ne dépassaient pas 5%. C'étaient les risques. 
+L'enjeu était à la hauteur. 
+Je pense que nous pouvons y arriver, et ceci grâce à la population. Pour l'illustrer, je vous donne une statistique. 91% des hommes en Afghanistan, 86% des femmes, écoutent au moins trois stations de radio par jour. Si l'on compare ce fait à leur discours, à la sophistication de leur connaissance du monde, je pense que -- j'ose même affirmer qu'ils sont bien plus sophistiqués que les citoyens américains ruraux sortant de l'université, et que la majorité des Européens. Parce que le monde les intéresse. 
+Et quelle est leur principale préoccupation ? 
+L'abandon. Les Afghans sont devenus profondément internationalistes. 
+Vous savez, lorsque je suis revenu en Décembre 2001, je n'avais absolument aucun désir de travailler avec le gouvernement Afghan. Parce que j'avais vécu en tant que nationaliste. 
+Et je leur ai dit -- mon peuple, avec les Américains ici, le -- séparés. Oui, je suis conseiller pour les Nations Unies. J'ai traversé 10 provinces Afghanes très rapidement. Et tout le monde me répétait, -- c'était un monde différent. Vous savez, ils s'engagent -- ils voient l'engagement, l'engagement international, comme une condition nécessaire au futur du peuple. Et l'aspect qui inquiète le plus le peuple Afghan est -- Clare Lockhart est ici, elle -- je vais donc vous répéter une discussion qu'elle a eu avec une femme illettrée du Nord de l'Afghanistan. Et cette femme lui a dit qu'elle ne s'inquiétait pas d'avoir ou non à manger sur sa table. 
+Elle s'inquiétait de savoir s'il y avait un plan pour le futur du pays. Savoir si ses enfants pourraient ou non avoir une vie réellement différente. 
+Ces discussions me donnent espoir. 
+CA : Comment le gouvernement afghan va-t-il fournir des moyens de subsistance alternatifs aux nombreuses personnes qui vivent du trafic de drogue ? 
+AG : Bien, la première chose, c'est, au lieu d'envoyer des milliards de dollars en programmes d'éradication et en entreprises de sécurité, ils devraient envoyer cette centaine de milliards de dollars aux 50 entreprises les plus innovantes dans le monde pour les inciter à créer un million d'emplois. La clé de la suppression de la drogue, c'est l'emploi. Il y a un fait très peu connu : les pays qui ont un revenu moyen légal par tête de 1000 dollars ne produisent pas de drogue. 
+Le deuxième levier, c'est le textile. La commerce est la solution, pas l'aide. 
+Les États-Unis et l'Europe devraient supprimer les droits de douane pour l'Afghanistan. Le textile est une industrie très mobile. 
+Si vous souhaitez que nous puissions nous mesurer à la Chine et attirer des investissements, nous pourrions certainement attirer entre 4 et 6 milliards de dollars assez facilement avec l'industrie textile, si les tarifs douaniers étaient supprimés. Cela créerait le type d'emploi dont nous avons besoin. La culture du coton ne peut pas lutter avec celle de l'opium. Mais la fabrication d'un T-shirt, elle, le peut. 
+C'est la chaîne de valeur. Et, aussi, l'Afghan ordinaire est fatigué d'entendre parler de micro-crédit. 
+C'est important, bien sûr. Mais les hommes et femmes ordinaires qui s'engagent dans la micro-production veulent un accès global au marché. 
+Ils ne veulent pas vendre dans les bazars pour touristes, vous savez, et vendre toujours la même chemise brodée. Nous voulons un partenariat avec les entreprises de design en Italie. 
+Oui, nous avons les meilleurs brodeurs dans le monde ! 
+Pourquoi ne pouvons-nous pas recréer ce qui s'est produit en Italie du Nord ? Avec le système de production à domicile ? 
+Je pense qu'économiquement la question cruciale est de maintenant tout penser en détails. 
+Et je veux ajouter que l'aide ne fonctionne pas. 
+Le système d'aide est cassé. Le système d'aide n'a pas de savoir, de vision, ni de capacité. 
+Je suis pour bien sûr -- après tout j'ai récolté beaucoup de fonds -- oui, pour être exact, j'ai réussi à persuader les États de donner à l'Afghanistan 27,5 milliards de dollars. Ils ne voulaient pas nous donner cet argent. 
+CA : Et le système n'a pas fonctionné ? 
+AG : Non. Non. Ce n'est pas que ce n'a pas fonctionné. C'est que, dans mon opinion, un dollar d'investissement privé, équivaut au moins à 20 dollars d'aide. En termes de dynamique créée. Deuxièmement, un dollar d'aide peut correspondre à 10 cents, 20 cents, ou 4 dollars. Cela dépend de la forme de l'aide, des degrés de conditionnalité qui sont attachés à l'aide fournie -- vous savez que le système de l'aide a été construit, au départ, pour bénéficier aux entrepreneurs des pays développés, et non pas pour générer de la croissance dans les pays pauvres. Et ceci constitue, encore, une de ces idées préconçues, que nous avons héritées des gouvernements. 
+On pourrait penser que le gouvernement américain n'imaginerait pas subventionner ses entreprises fonctionnant dans les pays en voie de développement. 
+Mais ils le font. Il y a tout le poids historique vis-à-vis de l'aide qui doit aujourd'hui être réexaminé. Si notre but est de parvenir à la construction d'États qui peuvent se prendre en charge, -- et je fais cette proposition d'égal à égal -- je tiens à ce que vous sachiez que je suis très sévère avec mes homologues, et l'aide doit s'achever dans chaque pays sous une période définie. 
+Et il aura des progrès chaque année. 
+Que ce soit sur le revenu domestique, ou sur la génération d'une économie. A moins que ce type d'entente ne soit concrétisée, vous ne pourrez être capable de maintenir le consensus. 
+Ce dont je veux parler c'est, en toile de fond c'est de l'idée que les voitures sont de l'art. 
+C'est quelque chose qui a réellement du sens pour moi, parce que les designers automobiles ont tendance à être relégués au pied de la pyramide, nous ne faisons pas de livres de tables basses avec juste une lampe à l'intérieur, et on ne pense aux voitures qu'en tant que produit ce qui rend un peu difficile d'en approcher le côté esthétique avec la même terminologie qu'on emploierait pour discuter d'art. 
+Et donc les voitures, en tant qu'art, s'inscrivent dans un contexte émotionnel -- si vous l'acceptez -- que vous devez appréhender de la même manière que vous le feriez avec l'art avec un grand A. 
+Maintenant vous allez voir une image de Michel-ange. 
+C'est complètement différent des automobiles. 
+Les automobiles sont des choses qui se déplacent seules, n'est-ce pas? Les ascenseurs sont des automobiles. 
+Et ils ne transmettent pas vraiment d'émotion, ils répondent à un besoin, et effectivement les voitures existent depuis une centaine d'années et ont rendu nos vies meilleures d'un point de vue fonctionnel de bien des manières, elles ont aussi été une vraie source d'emmerdements. 
+Parce que les automobiles sont vraiment la chose qu'il nous faut résoudre. 
+Il nous faut résoudre la pollution, il nous faut résoudre les embouteillages -- mais ce n'est pas ce qui m'intéresse ici. 
+Ce qui m'intéresse dans ici c'est les voitures. Les automobiles sont peut-être ce que vous utilisez mais les voitures sont ce que nous sommes, de bien des manières. 
+Et tant que nous pourrons résoudre le problème des voitures, et je pense que nous le pouvons, avec les piles à combustible ou l'hydrogène, sujet qui séduit beaucoup BMW, et beaucoup d'autres choses, alors je pense que nous pouvons regarder au-delà et essayer de comprendre pourquoi tant d'entre nous sommes si accros à la voiture -- et ce que ça signifie, ce que nous pouvons en apprendre. 
+Voilà où je veux en venir. Les voitures ne sont pas des costumes, les voitures sont un avatar, les voitures sont une extension de vous-mêmes, elles prennent vos pensées, vos idées, vos émotions et elles les multiplient -- votre colère ou encore autre chose. C'est un avatar. 
+C'est un super waldo et vous êtes à l'intérieur, et si vous vous sentez sexy, la voiture est sexy. Et si la circulation vous enrage, vous avez une "Chevy : tel un roc, " pas vrai? 
+Les voitures sont une sculpture - le saviez-vous? 
+Que chaque voiture que vous voyez là dehors est sculptée à la main. 
+Beaucoup de gens pensent, "Et bien, ce sont les ordinateurs, et c'est fait par des machines et des trucs comme ça." 
+Et bien, elles le reproduisent, mais les originaux sont tous fait à la main. 
+C'est fait par des hommes et des femmes qui croient beaucoup dans leur métier. 
+Et ils mettent la même sorte de tensions dans la sculpture d'une voiture que vous mettez dans une grande sculpture que vous iriez voir dans un musée. 
+Cette tensions entre le besoin d'exprimer, le besoin de découvrir, et puis vous y mettez quelque chose de nouveau, et en même temps vous avez les limites de l'art. 
+Des règles qui disent, voilà comment on traite les surfaces, voilà ce que c'est que le contrôle, voici comment on montre qu'on maîtrise son art. 
+Et cette tension, cette découverte, qui poussent à quelque chose de nouveau -- et en même temps, ce sens d'obligation envers l'artisanat -- c'est aussi fort pour les voitures que ça l'est pour n'importe quoi. 
+Nous travaillons avec de l'argile, ce qui n'a pas beaucoup changé depuis que Michel-Ange a commencé à jouer avec, et il y a une analogie très intéressante pour ça aussi. 
+Pour faire rapide -- Michel-Ange a un jour dit qu'il était là pour 'découvrir la silhouette à l'intérieur', vous voyez? 
+Nous y voilà, l'automobile. 
+Ce que vous avez vu, c'était 100 ans, vous vous en êtes rendu compte? 
+Entre celle-là et celle-ci, ça a beaucoup changé, non? 
+Bon, ce n'est pas du marketing, c'est un concept de voiture très intéressant ici mais le côté marketing n'est pas ce dont je veux parler ici. 
+Je veux parler de ceci. 
+Qu'est ce ça veut dire que vous deviez laver votre voiture, de quoi s'agit-il, cette sensualité qui fait que vous devez la toucher? Voilà la sculpture qui va dedans. Cette sensualité. 
+Et c'est fait par des hommes et des femmes qui travaillent comme ça, qui font des voitures. 
+Maintenant cette petite citation sur la sculpture de Henry Moore, Je crois que cette "pression à l'intérieur" dont Moore parle - au moins quand il s'agit de voitures - ramène à cette idée de la moyenne. 
+C'est cette volonté de vivre, ce besoin de survivre, de s'exprimer, qui vient dans une voiture, et s'empare de gens comme moi. 
+Et nous disons aux autres, «Faites ceci, faites ceci, faites cela», jusqu'à ce que cette chose prenne vie. 
+Nous sommes complètement infectés. Et la beauté peut être le résultat de cette contagion, c'est tout à fait merveilleux. 
+Cette sculpture est, bien sûr, au cœur de tout cela, et c'est vraiment ce qui met le savoir-faire dans nos voitures. 
+Et ce n'est pas vraiment très différent, quand ils travaillent comme ça, ou lorsque quelqu'un travaille comme ça. 
+C'est ce même genre d'engagement, ce même genre de beauté. 
+Maintenant, j'en viens au fait. Je veux parler de voitures en tant qu'art. 
+L'art, au sens platonicien, c'est la vérité, la beauté, et l'amour. 
+Maintenant, c'est vraiment là que les designers de l'industrie automobile s'écartent des ingénieurs. 
+Parler d'amour ne pose pas vraiment de problème. 
+Parler de la vérité ou de la beauté ne nous pose pas vraiment de problème dans ce sens. 
+C'est ce que nous recherchons - lorsque nous faisons notre métier, nous essayons vraiment de trouver cette vérité cachée. 
+Nous n'essayons pas de trouver la vanité et la beauté. 
+Nous essayons de trouver la beauté dans la vérité. 
+Cependant, les ingénieurs ont tendance à regarder les choses un peu plus selon Newton, au lieu de cette approche quantique. 
+Nous avons affaire à des irrationalismes, et nous avons affaire à des paradoxes dont nous admettons l'existence, et les ingénieurs ont tendance à regarder les choses un peu plus peu comme deux et deux font quatre, et si vous obtenez 4,0 c'est mieux, et 4,0000, c'est encore mieux. 
+Et cela conduit parfois à une certaine divergence quant à savoir pourquoi nous faisons ce que nous faisons. 
+Nous avons à peu près accepté le fait, cependant, que nous sommes les femmes dans l'organisation chez BMW - BMW est une entreprise de type très viril, - les hommes, les hommes, les hommes, ce sont des ingénieurs. 
+Et nous sommes en quelque sorte le côté féminin. C'est d'accord, c'est cool, tu la joues viril, nous allons être un peu plus féminines. 
+Parce que ce qui nous intéresse est de trouver la forme qui est plus qu'une simple fonction. 
+Ce qui nous intéresse c'est de trouver la beauté qui est plus qu'une simple esthétique, c'est vraiment une vérité. 
+Et je pense que cette idée de l'âme, comme étant au cœur de superbes voitures, est très valable. Vous le savez tous. Vous reconnaissez une voiture quand vous l'avez vue, avec l'âme. Vous savez comment c'est fort. 
+Eh bien, cette expérience de l'amour, et l'expérience de la conception, selon moi, sont interchangeables. Et maintenant j'en viens à mon histoire. 
+J'ai découvert quelque chose à propos de l'amour et du design au travers d'un projet appelé Deep Blue. 
+Et d'abord, vous devez venir avec moi pendant une seconde, et disons, vous pouvez sortir le mot amour d'un tas de choses dans notre société, le remplacer par le mot design, et ça marchera encore, comme cette citation ici, vous savez. Ça fonctionne, vous savez? 
+Vous pouvez comprendre cela. Ça marche en truismes. 
+"Tout est juste dans le design et la guerre." 
+Certes, nous vivons dans une société compétitive. 
+Je pense que celui-là, il y a une chanson pop qui décrit vraiment Philippe Starck pour moi, c'est comme 'puppy love' l'amour d'un chiot, c'est cool, non? 
+Brosse à dents, cool. 
+Ça ne devient grave que quand on regarde quelque chose comme ça. OK? 
+ Il s'agit d'une substitution dont je crois que chacun d'entre nous, dans la gestion du design, est coupable. 
+Et cette idée qu'il y a plus à aimer, plus à designer, quand il s'agit de votre voisin, votre personne, ça peut être physique comme ça, et peut-être que dans l'avenir, ça le sera. 
+Mais maintenant ce qui compte c'est de s'occuper des nôtres, de nos propres équipes qui font la création. Donc, venons-en à mon histoire. 
+L'idée de gens au travail est ce avec quoi nous travaillons ici, et je dois établir un lien avec mes designers lorsque nous créons des BMW. 
+Il nous faut une intimité partagée, une vision partagée Cela signifie que nous devons travailler comme une seule famille, nous devons nous comprendre de cette façon. 
+Il y a de bons moments, il y a des moments intéressants, et il y a parfois un peu de stress aussi. 
+Vous voulez faire des voitures, vous devez sortir. 
+Vous devez faire des voitures sous la pluie, vous devez faire des voitures dans la neige. 
+C'est, soit dit en passant, une présentation que nous avons faite devant notre conseil d'administration. 
+Nous les avons trainés dans la neige aussi. Vous voulez connaitre les voitures à l'extérieur? 
+Eh bien, vous devez être dehors pour faire ça. 
+Et parce que ce sont des artistes, ils ont des tempéraments très artistiques. 
+Pas vrai? Maintenant une chose à propos de l'art, l'art c'est la découverte, et l'art c'est vous découvrir vous-même à travers votre art. Vous voyez? 
+Et une chose à propos des voitures, c'est que nous sommes tous un peu comme Pygmalion, nous sommes complètement amoureux de nos propres créations. 
+C'est un de mes tableaux préférés, il décrit vraiment notre relation avec les voitures. 
+C'est incroyablement écoeurant. 
+ Mais de ce fait, l'intimité avec laquelle nous travaillons ensemble comme une équipe prend une nouvelle dimension, un sens nouveau. 
+Nous avons un centre commun, nous avons tous un objectif commun, que la voiture reste au centre de toutes nos relations. 
+Et c'est mon travail, dans le processus concurrentiel, de restreindre ça. 
+J'ai entendu aujourd'hui parler des gènes de mort de Joseph qui doivent entrer et tuer la reproduction cellulaire. 
+Vous savez, c'est ce que je dois faire parfois. 
+Nous commençons avec 10 voitures, nous réduisons à cinq voitures, à trois voitures, à deux voitures, à une voiture, et je suis au milieu de cette mise à mort, au fond. 
+L'amour de quelqu'un, le bébé de quelqu'un. 
+C'est très difficile, et vous devez avoir un lien avec votre équipe qui vous permet de faire cela, parce que leur vie tourne autour de ça aussi. 
+Ils ont ce gène infecté en eux aussi, et ils veulent que cela vive, plus que toute autre chose. 
+Eh bien, ce projet, Deep Blue, m'a mis en contact avec mon équipe d'une manière que je n'attendais pas, et je tiens à vous le transmettre, parce que je veux que vous réfléchissiez à ça , peut-être dans vos propres relations. 
+Nous voulions faire une voiture qui soit un acte de foi complet pour BMW. 
+Nous voulions faire une équipe qui soit tellement éloignée de la façon dont nous l'avions fait, que je n'avais qu'un numéro de téléphone qui me reliait à eux. 
+Donc, ce que nous avons fait au lieu d'avoir un groupe d'artistes qui soient vos exécutants, nous avons décidé de libérer une équipe de designers et d'ingénieurs créatifs pour savoir quel serait le successeur du phénomène SUV en Amérique. 
+C'est en 1996 que nous avons fait ce projet. Et nous les avons donc envoyés avec ce nom d'équipe, Deep Blue. Maintenant, beaucoup de gens connaissent Deep Blue d'IBM, nous leur avons volé le nom parce que nous avons pensé que si quelqu'un lisait nos télécopies ils penseraient que nous parlions d'ordinateurs. 
+Il s'est avéré que c'était très futé parce que Deep Blue, dans une entreprise comme BMW, a une accroche - Deep Blue, wow, cool comme nom. 
+Donc, les gens se sont investis. Et nous avons pris une équipe de designers, et nous les avons envoyés en Amérique. Et nous leur avons donné un budget, ce que nous pensions être un ensemble de choses à faire, un calendrier, et rien d'autre. 
+Comme je l'ai dit, je n'avais qu'un numéro de téléphone qui me reliait à eux. 
+Et un groupe d'ingénieurs a travaillé en Allemagne, et l'idée était qu'ils travaillent séparément sur ce problème de ce qui succèderait au SUV, ils se réuniraient, compareraient leurs notes. Ensuite, ils travailleraient séparément, se réuniraient, et ils produiraient ensemble un ensemble monumental de différentes opinions qui ne pollueraient pas les idées des uns et des autres - mais en même temps, se réuniraient et résoudraient les problèmes. 
+En espérant qu'ils comprendaient vraiment le coeur du client, là où le client est et vit avec eux en Amérique. Donc - on a envoyé l'équipe, et en fait quelque chose de différent s'est produit. Ils sont allés ailleurs. 
+ Ils ont disparu, très honnêtement, et tout ce que j'ai eu ce sont des cartes postales. 
+Maintenant, j'ai reçu des cartes postales des gars à Las Vegas, et j'ai reçu des cartes postales des gars dans le Grand Canyon, et j'ai reçu ces cartes postales des chutes du Niagara, et rapidement, ils sont allés à New York, et je ne sais où encore. 
+Et je me dis, "Cela va être une super voiture, ils font des recherches auxquelles je n'avais même jamais pensé avant. " Vous voyez? Et ils ont décidé que, au lieu d'avoir un studio, et six ou sept appartements, il était moins coûteux de louer , l'ex-maison d'Elizabeth Taylor à Malibu. 
+Et - tout du moins, ils m'ont dit que c'était sa maison, Je crois qu'une fois, elle y a fait une petite fête ou quelque chose comme ça. 
+Mais de toute façon, c'était la maison, et ils vivaient tous là-bas. 
+Maintenant, c'est 24 heures sur 24, 7 jours sur 7 de vie en commun, une demi-douzaine de gens qui avaient quitté leur - certains avaient laissé leurs femmes et leurs familles derrière eux, et ils ont littéralement vécu dans cette maison pendant les six mois durant lesquels le projet a été en Amérique, mais les trois premiers mois ont été les plus intenses. 
+Et l'une des jeunes femmes dans le projet, c'était une dame fantastique, elle a en fait construit sa chambre dans la salle de bains. 
+La salle de bain était si grande, elle a construit le lit sur la baignoire - c'est tout à fait fascinant. 
+D'autre part, je ne savais rien à ce sujet. OK? 
+Rien. Tout ça se déroule, et tout ce que je reçois ce sont des cartes postales de ces gars à Las Vegas, ou d'ailleurs, qui disent: «Ne vous inquiétez pas Chris, ce sera vraiment très bien." OK? 
+Donc, l'idée que j'avais de ce qu'est un studio de design était sans doute - Je n'étais pas au courant de l'endroit où se trouvaient ces gens. 
+Cependant, les ingénieurs à Munich avaient adopté une solution relevant de Newton, et ils essayaient de trouver combien de porte-gobelets peuvent danser sur la tête d'une épingle, et ces questions vraiment graves auxquels le consommateur moderne est confronté. 
+Et on espérait que ces deux équipes se réuniraient, et que cette collusion de créativité incroyable, dans cet incroyable environnement, et ces ingénieurs incroyablement stressés, créerait des solutions incroyables. 
+Eh bien, ce que je ne savais pas, et ce que nous avons découvert c'était - ces gars-là, ils ne peuvent même pas se parler dans ces conditions. 
+Vous obtenez une divergence entre pensées newtonienne et quantique à ce stade, vous avez une scission si profonde et si avancée dans votre dialogue, qu'ils ne peuvent pas mettre leur travail en commun du tout. 
+Et donc nous avons eu notre première réunion, au bout de trois mois, à Tiburon, qui est à deux pas d'ici - vous connaissez Tiburon? 
+Et l'idée était qu'au bout des trois premiers mois de ces recherches indépendantes ils présenteraient le tout à M. Goschel - qui est maintenant mon patron, et à cette époque, était le co-mentor sur le projet - et ils présenteraient leurs résultats. 
+Nous pourrions voir où nous allions, nous verrions la première indication de ce qui pourrait être le phénomène qui succèderait au SUV en Amérique. 
+Et j'avais donc ces idées dans ma tête, que ça allait être génial. 
+Je veux dire, je vais voir tant de travail, c'est si intense - Je sais que probablement Las Vegas y était pour beaucoup, et je ne suis pas vraiment sûr de ce qu'apportait le Grand Canyon - mais de toute façon tout cela allait s'assembler, et j'allais voir un produit vraiment super. 
+Donc nous sommes allés à Tiburon, après trois mois, et l'équipe s'était réunie la semaine précédente, plusieurs jours à l'avance. 
+Les ingénieurs étaient venus en avions, et les designers se sont réunis avec eux, et ils ont préparé leur présentation ensemble. 
+Eh bien, il s'est avéré que les ingénieurs n'avaient rien fait. 
+Et ils n'avaient rien fait parce que - comme dans l'industrie automobile, les ingénieurs sont là pour résoudre des problèmes, et nous leur demandions de créer un problème. 
+Et les ingénieurs attendaient que les designeurs leur disent, "Voici le problème que nous avons créé, maintenant aidez-nous à le résoudre." 
+Et ils ne pouvaient pas en parler. Donc ce qui s'est passé, les ingénieurs se sont pointé avec rien. 
+Et les ingénieurs ont dit aux designers , "Si vous arrivez avec tous vos trucs, nous partons, nous nous retirerons du projet. " Donc, je ne savais rien de tout cela, et nous avions une présentation qui avait un ordre du jour, et tout ça. 
+Il y avait beaucoup de dialogue. 
+Nous avons passé quatre heures à entendre parler du vocabulaire qu'il faut construire entre les ingénieurs et les designers. 
+Et là, je m'attends à tout moment, "OK, on va tourner la page, et je vais voir les voitures, je vais voir les croquis, Je vais peut-être voir une idée de la direction où on va." 
+Le dialogue continue , avec des cartes mentales de mots, et bientôt il est devenu évident que, au lieu d'être ébloui par la brillance, j'ai été sérieusement dérouté par les conneries. 
+Et si vous pouvez imaginer à quoi ça ressemble, d'avoir pendant des mois des indications par cartes postales de la super façon dont l'équipe travaille, et ils sont là dehors à dépenser tout cet argent, et ils apprennent, et ils font tous ces trucs. 
+J'ai pété les plombs, vous comprenez? Ça m'a rendu fou. 
+Vous vous souvenez probablement de Tiburon, ça ressemblait à ça. 
+Après quatre heures, je me suis levé et j'ai mis cette équipe en miette. 
+J'ai leur ai crié dessus, j'ai hurlé, «Qu'est-ce que vous fichez? 
+Vous me laisser tomber, vous êtes mes designers, vous êtes censés être les créatifs, bon sang, qu'est-ce qui se passe ici? " C'était probablement une de mes meilleures tirades, j'en ai de bonnes, mais ce fut probablement une de mes meilleurs. Et je leur suis rentré dedans; comment pouvaient-ils prendre l'argent de BMW, comment pouvaient-ils avoir des vacances pendant trois mois et ne rien produire, rien? 
+Parce que bien sûr, ils ne nous disaient pas qu'ils avaient trois breaks plein de dessins, de modèles, de photos - tout ce que je voulais, qu'ils avaient enfermés dans les voitures, parce qu'ils avaient manifesté leur solidarité avec les ingénieurs - et ils avaient décidé de ne pas me montrer quoi que ce soit, afin de donner à la résolution des problèmes une chance de commencer, parce qu'ils ne s'étaient pas rendus compte, bien sûr, qu'ils ne pouvaient pas créer de problème. 
+Donc nous sommes allés déjeuner -  Et je dois vous dire, ce fut un déjeuner sérieusement silencieux. 
+Les ingénieurs étaient tous assis à un bout de la table, les designers et moi étions assis à l'autre bout de la table, très silencieux. 
+Et j'étais tellement furieux, furieux. OK? 
+Probablement parce qu'ils s'étaient bien amusés et moi pas, vous savez. 
+C'est ce qui rend furieux, pas vrai? 
+Et quelqu'un m'a demandé des nouvelles de Catherine, ma femme, avait-elle pris l'avion avec moi ou quelque chose comme ça? 
+J'ai dit: «Non,» et ça m'a fait penser à ma femme. 
+Et je suis rappelé que lorsque Catherine et moi nous sommes mariés, le prêtre a fait un sermon très plaisant, et il a dit quelque chose de très important. 
+Il a dit, "L'amour n'est pas égoïste, L'amour ne signifie pas compter combien de fois je dit, 'Je t'aime." 
+Cela ne signifie pas que vous eu des rapports sexuels tant de fois ce mois-ci, et que c'est deux fois moins que le mois dernier, ce qui signifie que tu ne m'aimes pas autant. 
+L'amour n'est pas égoïste. "Et j'ai réfléchi à ça et je me suis dit, «Vous savez, je ne fais pas preuve d'amour ici. Je ne montre vraiment pas d'amour. 
+Je suis incertain, je suis incertain et sans confiance. 
+Ce n'est pas possible. Ce ne peut pas être que j'attends un certain nombre de croquis, et pour moi c'est ma méthode de quantification pour qualifier une équipe. 
+Cela ne peut pas être. " Alors je leur ai raconté cette histoire. Je ai dit, "Les gars, je pense à quelque chose ici, ça ne va pas. Je ne peux pas avoir une relation avec vous les gars qui repose sur un postulat qui est quantifiable. 
+Basé sur un principe dicté qui dit: «Je suis un patron, vous faites ce que je dis, sans confiance." 
+J'ai dit: «Cela ne peut pas être." 
+En fait, nous avons tous éclaté en larmes, pour être honnête, parce qu'ils ne pouvaient toujours pas me dire combien de frustration ils avaient accumulé en eux, de ne pas pouvoir me montrer ce que je voulais, et d'avoir simplement à me demander de leur faire confiance que cela viendrait. 
+Et je pense que nous nous sommes sentis beaucoup plus proches ce jour-là, on a coupé un grand nombre de chaînes qui n'ont pas lieu d'être là, et nous avons forgé le concept de ce que sont une vraie équipe et une vraie créativité. 
+Nous avons remis la voiture au centre de nos pensées, et nous avons bien remis l'amour, je pense, au centre du processus. 
+Soit dit en passant, cette équipe a continué à créer six concepts différents pour le prochain modèle de ce que serait la proposition pour la génération qui succèderait aux SUV en Amérique. 
+Un de ces concepts était l'idée d'un coupé crossover - vous le voyez en bas, le Coupé X - ils ont eu beaucoup de plaisir avec ça. 
+C'était l'interprétation de nos motos, la GS, comme Carl Magnusson dit, "brute-iful", de l'idée de ce que pourrait être une moto, si vous ajoutez deux roues de plus. 
+Et donc, en conclusion, la leçon que je voulais vous transmettre, était celle-ci. Je vais aussi voler une petite citation tirée du «Petit Prince». 
+Il y a beaucoup à dire sur la confiance et l'amour, si vous savez que ces deux mots sont synonymes de design. 
+J'ai eu une relation très, très significative avec mon équipe ce jour-là, et c'est resté comme ça depuis. 
+Et j'espère que vous aussi vous trouvez que le design, et l'art du design, c'est plus que de le faire vous-même. 
+Il est vrai que la confiance et l'amour, qui le rend int�ressant. 
+Merci beaucoup. 
+ Avec toute l'inquiétude légitime pour le SIDA et la grippe aviaire -- et nous en entendrons parler par le brillant Docteur Brillant plus tard dans la journée -- je veux vous parler de l'autre pandémie, ce sont les maladies cardiovasculaires, le diabète, l'hypertension -- qui sont toutes évitables pour au moins 95% des gens, en changeant simplement de régime alimentaire et de mode de vie. 
+Ce qui se passe, c'est qu'une mondiallisation des maladies se met en place, que les gens commencent à manger comme nous, et vivre comme nous, et mourir comme nous. Et en une génération, par exemple, l'Asie est passée de détenteur des plus faibles taux de maladies cardiaques, et d'obésité, et de diabète, à l'un des plus élevés. Et en Afrique, les maladies cardiovasculaires sont la cause d'autant de décès que le VIH et le SIDA dans la plupart des pays. 
+Aussi nous avons une fenêtre décisive d'opportunité pour faire une différence importante qui puisse avoir un effet sur les vies de millions de gens littéralement, et de pratiquer une médecine préventive à l'échelle mondiale. 
+Les maladies des vaisseaux sanguins et du coeur tuent toujours plus de gens -- pas seulement dans ce pays mais aussi dans le monde entier -- que tout le reste combiné, et pourtant on peut les prévenir pour presque tout le monde. 
+Elles sont non seulement évitables, mais elles sont en fait réversibles. Et pendant les 29 dernières années nous avons été en mesure de le démontrer en changeant simplement régime et mode de vie, en utilisant des mesures très sophistiquées, coûteuses et ultramodernes pour prouver à quel point ces intervention très simples et très peu sophistiquées peuvent être puissantes. Une artériographie quantitative, avant et après un an, et des scintigraphies cardiaques en TEP. 
+Nous avons montré il y a quelques mois -- nous avons publié la première étude démontrant qu'on peut effectivement arrêter ou renverser la progression du cancer de la prostate en faisant des changements de régime et de mode de vie, et obtenir une régression de 70% de la croissance de la tumeur, ou une inhibition de la croissance de la tumeur, comparé à seulement 9 % pour le groupe de contrôle. 
+Et sur la spectroscopie IRM et RM ici, l'activité de la tumeur de la prostate est marquée en rouge -- vous pouvez voir qu'elle diminue après un an. 
+Et puis il y a à présent une épidémie d'obésité. Deux tiers des adultes et 15% des enfants. Ce qui m'inquiète vraiment c'est que le diabète a progressé de 70% ces 10 dernières années, et c'est peut-être la première génération dans laquelle nos enfants vivent une vie plus courte que nous. C'est pitoyable, et c'est évitable. 
+Ces chiffres ne sont pas des résultats d'élections ce sont des gens -- le nombre de gens qui sont obèses par état, en commençant en 1985, 86, 87 ce sont les relevés du site du Centre pour la prévention et le contrôle des maladies -- 88,89,90,91 et vous voyez une nouvelle catégorie -- 92,93,94,95,96, 97, 98, 99, 2000, 2001 -- ça empire. 
+D'une certaine manière, nous régressons. 
+Et que pouvons nous y faire? Et bien, vous savez, le régime que nous avons trouvé qui peut renverser les maladies cardiaques et le cancer est le régime asiatique. 
+Mais les gens en Asie commencent à manger comme nous c'est pour cela qu'ils commencent à être malades comme nous le sommes. 
+Donc, j'ai travaillé avec beaucoup des grandes compagnies alimentaires. Ils peuvent rendre amusants, sexys, branchés et croustillants et pratiques à manger des aliments plus sains par exemple -- je préside les comités consultatifs de McDonald, PepsiCo et ConAgra et Safeway et bientôt Del Monte, et ils trouvent que c'est bon Les salades que vous voyez chez McDonald sont le résultat de ce travail -- ils vont lancer une salade asiatique. 
+Chez Pepsi, deux tiers de la croissance de leur revenu est le résultat de leurs meilleurs aliments. 
+Et donc si nous pouvons faire ça, alors nous pouvons libérer des ressources pour acheter des médicaments dont on a vraiment besoin pour traiter le SIDA et le VIH et la malaria et la prévention de la grippe aviaire. Merci. 

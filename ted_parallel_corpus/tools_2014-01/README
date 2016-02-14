@@ -1,0 +1,213 @@
+WIT3 - http://wit3.fbk.eu
+
+# Copyright: FBK, Trento - Italy
+# License: Creative Commons Attribution-NonCommercial
+
+This directory includes the perl scripts developed for processing TED
+Talks transcripts as downloaded from the TED website and stored in XML
+format. The processing tools are:
+
+filter-talks.pl
+find-common-talks.pl
+find-talks.pl
+rebuild-sent.pl
+ted-extract-mono.pl
+ted-extract-par.pl
+
+
+In the following, it is shown how to use the tools for building
+parallel training/evaluation sets and monolingual training text
+starting from the XML files of two languages. XML files are available
+at the WIT3 website for some releases of the corpus (see "XML and DTD
+files" page); alternatively, they can be crawled by the script
+"webdown" included in the HLT Web Manager.
+
+Standard GNU commands are used in addition to the WIT3 processing
+tools.
+
+-----------------------------------------------------------------
+
+# Goal: for a given pair of languages, extract parallel and
+# monolingual text for both training and evaluation purposes, from the
+# TED transcripts.
+
+# Starting hypothesis: the XML files for the pair of languages we are
+# interested in (e.g. Italian-to-French) are available under the
+# directory "example":
+
+example/ted_fr.xml
+example/ted_it.xml
+
+# The "working_dir" directory is used for storing temporary and final files, which 
+
+############################
+### find-common-talks.pl ###
+############################
+
+# Find the set of common talks between two languages:
+
+perl find-common-talks.pl \
+--xml-file-l1 example/ted_fr.xml \
+--xml-file-l2 example/ted_it.xml > working_dir/talkid_it-fr.all
+
+
+# Split the common talks in one set for evaluation (e.g. the first 10
+# talks) and one for training (the remaining talks) purposes:
+
+head -10 working_dir/talkid_it-fr.all > working_dir/talkid_it-fr.test
+tail -n +11 working_dir/talkid_it-fr.all > working_dir/talkid_it-fr.train
+
+############################
+###     find-talks.pl    ###
+############################
+
+# Find the set of talks in the target language ("fr") disjoint from
+# that used for testing:
+
+perl find-talks.pl \
+--xml-file example/ted_fr.xml > working_dir/talkid_fr.all
+
+egrep -v -w -f working_dir/talkid_it-fr.test working_dir/talkid_fr.all > working_dir/talkid_fr.train
+
+
+############################
+###    filter-talks.pl   ###
+############################
+
+# Select specific set of talks from the whole collection:
+
+# training parallel: 
+
+perl filter-talks.pl \
+--talkids working_dir/talkid_it-fr.train \
+--xml-file example/ted_fr.xml > working_dir/ted_it-fr.train.fr.xml
+
+perl filter-talks.pl \
+--talkids working_dir/talkid_it-fr.train \
+--xml-file example/ted_it.xml > working_dir/ted_it-fr.train.it.xml
+
+# training monolingual: 
+
+perl filter-talks.pl \
+--talkids working_dir/talkid_fr.train \
+--xml-file example/ted_fr.xml > working_dir/ted_train.fr.xml
+
+
+# test:
+
+perl filter-talks.pl \
+--talkids working_dir/talkid_it-fr.test \
+--xml-file example/ted_fr.xml > working_dir/ted_it-fr.test.fr.xml
+
+perl filter-talks.pl \
+--talkids working_dir/talkid_it-fr.test \
+--xml-file example/ted_it.xml > working_dir/ted_it-fr.test.it.xml
+
+
+############################
+### ted-extract-par.pl   ###
+############################
+
+# Extract parallel sentences:
+
+# training:
+
+perl ted-extract-par.pl \
+        --xmlsource working_dir/ted_it-fr.train.it.xml \
+        --xmltarget working_dir/ted_it-fr.train.fr.xml \
+        --outsource working_dir/ted_train_it-fr.it \
+        --outtarget working_dir/ted_train_it-fr.fr \
+        --outdiscarded working_dir/ted_train_it-fr.discarded \
+        --filter 1.96
+
+# in case you are interested in keeping metadata on talks, activate the option "--tags"
+
+
+# test:
+
+perl ted-extract-par.pl \
+        --xmlsource working_dir/ted_it-fr.test.it.xml \
+        --xmltarget working_dir/ted_it-fr.test.fr.xml \
+        --outsource working_dir/ted_test_it-fr.it \
+        --outtarget working_dir/ted_test_it-fr.fr \
+        --outdiscarded working_dir/ted_test_it-fr.discarded \
+        --filter 1.96
+
+############################
+### ted-extract-mono.pl  ###
+############################
+
+# Extract monolingual text:
+
+perl ted-extract-mono.pl \
+        --xml working_dir/ted_train.fr.xml \
+        --out working_dir/ted_train.fr
+
+
+############################
+###   rebuild-sent.pl    ###
+############################
+
+# Rebuild sentences on strong punctuation
+
+# training:
+
+perl rebuild-sent.pl \
+--file-l1 working_dir/ted_train_it-fr.it \
+--file-l2 working_dir/ted_train_it-fr.fr
+
+# (now parallel rebuilt sentences are in 
+#	working_dir/ted_train_it-fr.(fr|it).sent
+# files)
+
+
+# test:
+
+perl rebuild-sent.pl \
+--file-l1 working_dir/ted_test_it-fr.it \
+--file-l2 working_dir/ted_test_it-fr.fr
+
+
+# monolingual:
+
+cp working_dir/ted_train.fr working_dir/__tmp__$$
+
+perl rebuild-sent.pl \
+--file-l1 working_dir/ted_train.fr \
+--file-l2 working_dir/__tmp__$$
+
+rm working_dir/__tmp__$$*
+
+############################
+###       cleaning       ###
+############################
+
+# Some cleaning of the text would be recommended. For example, very
+# roughly all stuff in brackets could be removed, since they are
+# typically used for reporting extra linguistic phenomena like
+# (Laughter), (Applause), (Music), (Video), etc.
+
+cat working_dir/ted_train_it-fr.it.sent | perl -pe 's/\([^\)]+\)//g' > working_dir/ted_train_it-fr.it.sent.clean
+cat working_dir/ted_train_it-fr.fr.sent | perl -pe 's/\([^\)]+\)//g' > working_dir/ted_train_it-fr.fr.sent.clean
+
+cat working_dir/ted_test_it-fr.it.sent | perl -pe 's/\([^\)]+\)//g' > working_dir/ted_test_it-fr.it.sent.clean
+cat working_dir/ted_test_it-fr.fr.sent | perl -pe 's/\([^\)]+\)//g' > working_dir/ted_test_it-fr.fr.sent.clean
+
+cat working_dir/ted_train.fr.sent | perl -pe 's/\([^\)]+\)//g' > working_dir/ted_train.fr.sent.clean
+
+# More tricky cleaning is up to you!
+
+
+############################
+###     finalizing       ###
+############################
+
+mv working_dir/ted_train_it-fr.it.sent.clean example/ted_train_it-fr.it
+mv working_dir/ted_train_it-fr.fr.sent.clean example/ted_train_it-fr.fr
+
+mv working_dir/ted_test_it-fr.it.sent.clean example/ted_test_it-fr.it
+mv working_dir/ted_test_it-fr.fr.sent.clean example/ted_test_it-fr.fr
+
+mv working_dir/ted_train.fr.sent.clean example/ted_train.fr
+
+\rm working_dir/*
