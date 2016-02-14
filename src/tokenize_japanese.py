@@ -21,11 +21,11 @@ for file in root.iter("file"):
                             tokens = t.tokenize(seekvideo.text)
                         except:
                             try:
-                                text = seekvideo.text.replace(u"　", u"、")
+                                text = seekvideo.text.replace(u"\xa0", u"、")
                                 print text
                                 tokens = t.tokenize(text)
                             except:
-                                text = seekvideo.text.replace(u"　", u"")
+                                text = seekvideo.text.replace(u"\xa0", u"")
                                 print text
                                 tokens = t.tokenize(text)
                         for tok in tokens:
