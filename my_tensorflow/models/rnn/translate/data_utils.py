@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 # Copyright 2015 Google Inc. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,6 +28,9 @@ import tarfile
 
 from tensorflow.python.platform import gfile
 from six.moves import urllib
+from janome.tokenizer import Tokenizer as Janome_Tokenizer
+
+
 
 # Special vocabulary symbols - we always put them at the start.
 _PAD = "_PAD"
@@ -239,8 +245,17 @@ def data_to_token_ids(data_path, target_path, vocabulary_path,
                                             normalize_digits)
           tokens_file.write(" ".join([str(tok) for tok in token_ids]) + "\n")
 
+def janome_tokenizer(sentence):
+    t = Janome_Tokenizer()
+    try:
+        tokens = t.tokenize(sentence)
+    except:
+        sentence = sentence.replace(u"　",u"、")
+        tokens = t.tokenize(sentence)
+    return [dic.base_form for dic in tokens]
 
-def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size):
+
+def prepare_wmt_data(data_dir, en_vocabulary_size, target_vocabulary_size, target_language):
   """Get WMT data into data_dir, create vocabularies and tokenize data.
 
   Args:
@@ -257,28 +272,38 @@ def prepare_wmt_data(data_dir, en_vocabulary_size, fr_vocabulary_size):
       (5) path to the English vocabulary file,
       (6) path to the French vocabluary file.
   """
-  # Get wmt data to the specified directory.
-  train_path = get_wmt_enfr_train_set(data_dir) #Download the WMT en-fr training corpus to directory unless it's there -> Extract tar files. Return: path
-  dev_path = get_wmt_enfr_dev_set(data_dir)
+  # Get ted data to the specified directory.
+  # train_path = get_wmt_enfr_train_set(data_dir) #Download the WMT en-fr training corpus to directory unless it's there -> Extract tar files. Return: path
+  # dev_path = get_wmt_enfr_dev_set(data_dir)
+  train_path = os.path.join(data_dir,"/ted_train")
+  dev_path = os.path.join(data_dir,"/ted_dev")
+
+  # Initialize tokenizer
+  if target_language == "ja":
+    tokenizer = janome_tokenizer
+  elif target_language == "de":
+    tokenizer = basic_tokenizer
+  else:
+    tokenizer = basic_tokenizer
 
   # Create vocabularies of the appropriate sizes.
-  fr_vocab_path = os.path.join(data_dir, "vocab%d.fr" % fr_vocabulary_size)
+  target_vocab_path = os.path.join(data_dir, "vocab%d.target" % target_vocabulary_size)
   en_vocab_path = os.path.join(data_dir, "vocab%d.en" % en_vocabulary_size)
-  create_vocabulary(fr_vocab_path, train_path + ".fr", fr_vocabulary_size)
+  create_vocabulary(target_vocab_path, train_path + ".target", target_vocabulary_size, tokenizer=tokenizer)
   create_vocabulary(en_vocab_path, train_path + ".en", en_vocabulary_size)
 
   # Create token ids for the training data.
-  fr_train_ids_path = train_path + (".ids%d.fr" % fr_vocabulary_size)
+  target_train_ids_path = train_path + (".ids%d.target" % target_vocabulary_size)
   en_train_ids_path = train_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(train_path + ".fr", fr_train_ids_path, fr_vocab_path)
+  data_to_token_ids(train_path + ".target", target_train_ids_path, target_vocab_path, tokenizer=tokenizer)
   data_to_token_ids(train_path + ".en", en_train_ids_path, en_vocab_path)
 
   # Create token ids for the development data.
-  fr_dev_ids_path = dev_path + (".ids%d.fr" % fr_vocabulary_size)
+  target_dev_ids_path = dev_path + (".ids%d.target" % target_vocabulary_size)
   en_dev_ids_path = dev_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(dev_path + ".fr", fr_dev_ids_path, fr_vocab_path)
+  data_to_token_ids(dev_path + ".target", target_dev_ids_path, target_vocab_path, tokenizer=tokenizer)
   data_to_token_ids(dev_path + ".en", en_dev_ids_path, en_vocab_path)
 
-  return (en_train_ids_path, fr_train_ids_path,
-          en_dev_ids_path, fr_dev_ids_path,
-          en_vocab_path, fr_vocab_path)
+  return (en_train_ids_path, target_train_ids_path,
+          en_dev_ids_path, target_dev_ids_path,
+          en_vocab_path, target_vocab_path)
