@@ -1,9 +1,7 @@
-
 # -*- coding: utf-8 -*-
 
 import xml.etree.ElementTree as ET
 from janome.tokenizer import Tokenizer
-
 
 
 tree_ja = ET.parse('../ted_parallel_corpus/ted_ja-20150530.xml')
@@ -19,16 +17,16 @@ for file in root.iter("file"):
                 for seekvideo in trans.iter("seekvideo"):
                     if seekvideo.text != None:
                         try:
-			    print seekvideo.text
+                            print seekvideo.text
                             tokens = t.tokenize(seekvideo.text)
                         except:
-			    try:
-                            	text = seekvideo.text.replace(u"　",u"、")
-				print text
-                            	tokens = t.tokenize(text)
-			    except:
-				text = seekvideo.text.replace(u"　",u"")
-				print text
-				tokens = t.tokenize(text)
+                            try:
+                                text = seekvideo.text.replace(u"　", u"、")
+                                print text
+                                tokens = t.tokenize(text)
+                            except:
+                                text = seekvideo.text.replace(u"　", u"")
+                                print text
+                                tokens = t.tokenize(text)
                         for tok in tokens:
-                                print tok
+                            print tok
