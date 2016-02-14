@@ -17,16 +17,17 @@ for file in root.iter("file"):
                 for seekvideo in trans.iter("seekvideo"):
                     if seekvideo.text != None:
                         try:
-                            print seekvideo.text
                             tokens = t.tokenize(seekvideo.text)
                         except:
                             try:
                                 text = seekvideo.text.replace(u"\xa0", u"、")
-                                print text
                                 tokens = t.tokenize(text)
                             except:
-                                text = seekvideo.text.replace(u"\xa0", u"")
-                                print text
-                                tokens = t.tokenize(text)
+                                try:
+                                    text = seekvideo.text.replace(u"\xa0", u"")
+                                    tokens = t.tokenize(text)
+                                except:
+                                    tokens = []
+                                    print "Error at seekid="+str(seekvideo.get("id"))+", text="+seekvideo.text.encode("utf-8")
                         for tok in tokens:
                             print tok
