@@ -41,7 +41,7 @@ import tensorflow.python.platform
 
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
-import my_tensorflow as tf
+import tensorflow as tf
 
 # from my_tensorflow.models.rnn.translate import data_utils
 import data_utils
