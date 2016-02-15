@@ -140,7 +140,7 @@ def create_vocabulary(vocabulary_path, data_path, max_vocabulary_size,
       counter = 0
       for line in f:
         counter += 1
-        if counter % 100000 == 0:
+        if counter % 1000 == 0:
           print("  processing line %d" % counter)
         tokens = tokenizer(line) if tokenizer else basic_tokenizer(line)
         for w in tokens:
@@ -215,27 +215,27 @@ def sentence_to_token_ids(sentence, vocabulary,
   return [vocabulary.get(re.sub(_DIGIT_RE, "0", w), UNK_ID) for w in words]
 
 
-def data_to_token_ids(data_path, target_path, vocabulary_path,
+def data_to_token_ids(data_path, ja_path, vocabulary_path,
                       tokenizer=None, normalize_digits=True):
   """Tokenize data file and turn into token-ids using given vocabulary file.
 
   This function loads data line-by-line from data_path, calls the above
-  sentence_to_token_ids, and saves the result to target_path. See comment
+  sentence_to_token_ids, and saves the result to ja_path. See comment
   for sentence_to_token_ids on the details of token-ids format.
 
   Args:
     data_path: path to the data file in one-sentence-per-line format.
-    target_path: path where the file with token-ids will be created.
+    ja_path: path where the file with token-ids will be created.
     vocabulary_path: path to the vocabulary file.
     tokenizer: a function to use to tokenize each sentence;
       if None, basic_tokenizer will be used.
     normalize_digits: Boolean; if true, all digits are replaced by 0s.
   """
-  if not gfile.Exists(target_path):
+  if not gfile.Exists(ja_path):
     print("Tokenizing data in %s" % data_path)
     vocab, _ = initialize_vocabulary(vocabulary_path)
     with gfile.GFile(data_path, mode="r") as data_file:
-      with gfile.GFile(target_path, mode="w") as tokens_file:
+      with gfile.GFile(ja_path, mode="w") as tokens_file:
         counter = 0
         for line in data_file:
           counter += 1
@@ -247,15 +247,23 @@ def data_to_token_ids(data_path, target_path, vocabulary_path,
 
 def janome_tokenizer(sentence):
     t = Janome_Tokenizer()
+    sentence = sentence.decode("utf-8")
     try:
         tokens = t.tokenize(sentence)
     except:
-        sentence = sentence.replace(u"　",u"、")
-        tokens = t.tokenize(sentence)
+        try:
+            tokens = t.tokenize(sentence.replace(u"\xa0", u"、"))
+        except:
+            try:
+                tokens = t.tokenize(sentence.replace(u"\xa0", u""))
+            except:
+                print ("Tokenization error at sentence: "+sentence.encode("utf-8"))
+                return  []
+
     return [dic.base_form for dic in tokens]
 
 
-def prepare_wmt_data(data_dir, en_vocabulary_size, target_vocabulary_size, target_language):
+def prepare_wmt_data(data_dir, en_vocabulary_size, ja_vocabulary_size):
   """Get WMT data into data_dir, create vocabularies and tokenize data.
 
   Args:
@@ -275,35 +283,31 @@ def prepare_wmt_data(data_dir, en_vocabulary_size, target_vocabulary_size, targe
   # Get ted data to the specified directory.
   # train_path = get_wmt_enfr_train_set(data_dir) #Download the WMT en-fr training corpus to directory unless it's there -> Extract tar files. Return: path
   # dev_path = get_wmt_enfr_dev_set(data_dir)
-  train_path = os.path.join(data_dir,"/ted_train")
-  dev_path = os.path.join(data_dir,"/ted_dev")
+  train_path = os.path.join(data_dir,"ted_jaen_train")
+  dev_path = os.path.join(data_dir,"ted_jaen_dev")
 
   # Initialize tokenizer
-  if target_language == "ja":
-    tokenizer = janome_tokenizer
-  elif target_language == "de":
-    tokenizer = basic_tokenizer
-  else:
-    tokenizer = basic_tokenizer
+  tokenizer = janome_tokenizer
+  
 
   # Create vocabularies of the appropriate sizes.
-  target_vocab_path = os.path.join(data_dir, "vocab%d.target" % target_vocabulary_size)
-  en_vocab_path = os.path.join(data_dir, "vocab%d.en" % en_vocabulary_size)
-  create_vocabulary(target_vocab_path, train_path + ".target", target_vocabulary_size, tokenizer=tokenizer)
+  ja_vocab_path = data_dir+ ("vocab%d.ja" % ja_vocabulary_size)
+  en_vocab_path = data_dir + ("vocab%d.en" % en_vocabulary_size)
+  create_vocabulary(ja_vocab_path, train_path + ".ja", ja_vocabulary_size, tokenizer=tokenizer)
   create_vocabulary(en_vocab_path, train_path + ".en", en_vocabulary_size)
 
   # Create token ids for the training data.
-  target_train_ids_path = train_path + (".ids%d.target" % target_vocabulary_size)
+  ja_train_ids_path = train_path + (".ids%d.ja" % ja_vocabulary_size)
   en_train_ids_path = train_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(train_path + ".target", target_train_ids_path, target_vocab_path, tokenizer=tokenizer)
+  data_to_token_ids(train_path + ".ja", ja_train_ids_path, ja_vocab_path, tokenizer=tokenizer)
   data_to_token_ids(train_path + ".en", en_train_ids_path, en_vocab_path)
 
   # Create token ids for the development data.
-  target_dev_ids_path = dev_path + (".ids%d.target" % target_vocabulary_size)
+  ja_dev_ids_path = dev_path + (".ids%d.ja" % ja_vocabulary_size)
   en_dev_ids_path = dev_path + (".ids%d.en" % en_vocabulary_size)
-  data_to_token_ids(dev_path + ".target", target_dev_ids_path, target_vocab_path, tokenizer=tokenizer)
+  data_to_token_ids(dev_path + ".ja", ja_dev_ids_path, ja_vocab_path, tokenizer=tokenizer)
   data_to_token_ids(dev_path + ".en", en_dev_ids_path, en_vocab_path)
 
-  return (en_train_ids_path, target_train_ids_path,
-          en_dev_ids_path, target_dev_ids_path,
-          en_vocab_path, target_vocab_path)
+  return (en_train_ids_path, ja_train_ids_path,
+          en_dev_ids_path, ja_dev_ids_path,
+          en_vocab_path, ja_vocab_path)

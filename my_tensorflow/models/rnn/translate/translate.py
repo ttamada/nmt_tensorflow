@@ -41,9 +41,10 @@ import tensorflow.python.platform
 
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
-import tensorflow as tf
+import my_tensorflow as tf
 
-from tensorflow.models.rnn.translate import data_utils
+# from my_tensorflow.models.rnn.translate import data_utils
+import data_utils
 from tensorflow.models.rnn.translate import seq2seq_model
 from tensorflow.python.platform import gfile
 
@@ -139,7 +140,7 @@ def train():
   # Prepare WMT data.
   print("Preparing TED data in %s" % FLAGS.data_dir)
   en_train, target_train, en_dev, target_dev, _, _ = data_utils.prepare_wmt_data(
-      FLAGS.data_dir, FLAGS.en_vocab_size, FLAGS.fr_vocab_size, FLAGS.target_language)
+      FLAGS.data_dir, FLAGS.en_vocab_size, FLAGS.fr_vocab_size)
 
   with tf.Session() as sess:
     # Create model.
