@@ -260,7 +260,7 @@ def janome_tokenizer(sentence):
                 print ("Tokenization error at sentence: "+sentence.encode("utf-8"))
                 return  []
 
-    return [dic.base_form for dic in tokens]
+    return [dic.surface for dic in tokens]
 
 
 def prepare_wmt_data(data_dir, en_vocabulary_size, ja_vocabulary_size):
